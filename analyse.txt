@@ -1,0 +1,12 @@
+Thématique choisie: Le crochet
+Genre: Informatif
+Critères de sélection: Recherche Google 'Articles crochet' + élimination des tutoriels (suite d'abréviations de termes techniques et listes d'instructions)
+Motivations: intéret pour le sujet du crochet
+Intéret du corpus: textes majoritairement Informatifs 
+Description qualitative:
+  Grille externe
+
+Description quantitative:
+  taille du corpus: 
+  étendue du vocabulaire:
+  score de richesse lexicale:
