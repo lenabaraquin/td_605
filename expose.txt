@@ -1,0 +1,960 @@
+<TXT=asdp1>
+ Top. 
+Alors bè les Sciences du Langage en fait euh donc euh c'est euh [claquement de langue] donc comme le le  le mot l'indique c'est donc l'étude du langage et pas des langues, 
+donc ça comporte plusieurs matières euh d- dont la phonétique qui est l'étude euh concrète des sons, 
+euh la phonologie l'étude abstraite des sons [reniflement], 
+la morphologie donc c'est l'étude de la combinaison des mots, 
+ensuite il y a aussi de la syntaxe euh qui euh qui étudie la position euh des mots dans la phrase, 
+euh la la sémantique donc l'étude des différents enfin des sens euh des mots, 
+euh voilà en gros ce sont les matières principales de  des Sciences du langage mais il y a aussi euh, en fait c'est le hum [claquement de langue] une euh une matière assez ouverte parce qu'elle englobe plusieurs euh disciplines, 
+donc euh hum comme la sociolinguistique la psycholinguistique aussi ou le traitement automatique des langues. 
+Donc euh au niveau du traitement automatique des langues il y a plusieurs matières euh, dont euh l'apprentissage en fait de langages de programmation, 
+donc euh voilà pour euh, pour pouvoir euh en fait euh ben savoir programmer à partir de euh, donner euh une thématique et savoir euh et faire faire un programme en fait. 
+<TXT=asdp2>
+et ensuite il y a la linguistique de corpus donc euh  ben linguistique de corpus euh, on étudiera un cor- un corpus et donc un ensemble de textes qui hum, 
+[claquement de langue] qui constituent donc un échantillon de la langue mais ce sont euh, ce sont des textes qui ont  euh un rapport euh, entre eux, qui ont la même thématique, 
+et euh donc à partir de ces corpus il y a plusieurs études qui se font en fait euh, 
+euh ça permet de euh de savoir, euh comment sont utilisés les mots en fait dans tels types de textes, 
+ de euh, [claquement de langue] euh de de regarder euh, quelles euh quelles formes apparaissent plus souvent dans le genre de texte enfin, vraiment voir quelle euh, enfin quelles occurrences sont propres plus ou moins à tel texte en fait, 
+et donc ben nous on nous apprends à utiliser euh les logiciels euh, pour euh justement euh, voir le contenu de de ces corpus, 
+et aussi euh savoir comment est constitué un corpus , voilà. 
+ euh après euh, [E: [claquement de langue] les débouchés, tout ça] 
+Les débouchés bè en fait euh il y a beaucoup de débouchés au niveau de la recherche, 
+euh bè dans chaque euh dans chaque spécialité qu'on choisi bon bè il y a la recherche évidemment 
+ et ensuite après il y a quelques D.E.S.S enfin pour le peu que j'en connais euh quelques D.E.S.S donc pour euh finir ingénieur travailler en entreprise 
+ mais euh il me semble aussi qu'il y a euh hum qu'il y a des personnes qui ont fait euh des euh un an de plus euh par ailleurs pour avoir une double euh  un double diplôme et en ain- ainsi euh on va pouvoir bosser en entreprise en, sans forcément avoir fait de D.E.S.S  euh voilà. 
+
+<TXT=ashp1>
+
+L: Ok top alors je suis donc là pour vous parler de ce que j'ai fait depuis la terminale pour vous donner une impre-une idée de ce que peut être un cursus littéraire par exemple. 
+Donc en fait après la terminale j'avais demandé à intégrer à euh à Saint-Sernin une classe de prépa B.L alors je sais pas si vous savez ce que c'est? 
+Euh prépa B.L c'est aussi une hypokhâgne mais c'est pas classique dans le sens où il y a de l'économie et des mathémathiques à un certain niveau 
+en fait ce serait une pré- classe préparatoire qui serait entre une euh classe préparatoire H.E.C avec une section math 
+et une euh une classe d'hypokhâgne normale donc j'étais dans cette cla-j'étais dans cette classe là 
+où j'ai passé une petite semaine et j'ai [rire] j'ai j'ai été effrayée par la quantité de travail  à à abattre et en fait euh 
+malgré la préparation que j'avais fait pendant les vacances j'étais pas je n'étais pas vraiment euh au point et je me sentais pas à l'aise parmi des gens qui avaient 
+qui avaient fait de l'économie depuis trois ans et qui avaient fait des maths à un niveau supérieur au mien.  
+Donc j'ai j'ai pleuré jusqu'à ce que j'intègre [rire] une classe euh préparatoire normale enfin une cla-classe d'hypokhâgne euh classique. 
+Donc bon ben j'ai souffert aussi mais j'ai moins souffert je pense que les gens qui ont fait la la classe B.L 
+et euh voilà donc en en prépa on on a six matières traditionnelles enfin les matières qu'on a au lycée à peu près 
+et donc chacune a-avec quatre heures de d'enseignement par semaine. 
+<TXT=ashp2>
+Donc c'est là que que j'ai pu découvrir des matières qu'on qu'on traite vraiment différemment au au co-lycée et au collège. 
+Par exemple l'histoire j'ai j'ai vraiment découvert cette matière avec un prof formidable et 
+et un programme intéressant et un programme que personne ne n'avait dont personne ne m'avait parlé jusque là par exemple la 
+l'Egypte heptomélaïque c'est vraiment euh la période de de l'histoire antique que personne n'étudie 
+sauf notre prof en prépa et donc vraiment on s'est régalé on a 
+on a eu des des bons moments avec elle par exemple. 
+Mais après je peux pas cacher que ça a été difficile par exemple en en français j'ai jamais dépassé la moyenne et c'est vraiment euh quelque chose de 
+de frustrant et quand on se dit qu'on veut être  qu'on est littéraire et qu'on veut le rester c'est vraiment euh 
+la pire chose qui pouvait m'arriver j'ai je m'entendais pas non plus avec ma prof de français mais elle m'a ça ne l'a pas empêchée de me donner mes équivalences donc je pense que 
+on a découvert des personnalités et on a on a appris à se à se battre en fait euh 
+face à des gens qui sont vraiment des gens très intelligents et vraiment très 
+parfois très cassants et vraiment très impressionnants en tout cas pour des gens qui pour des élèves qui sortent de terminale et qui 
+qui ont vraiment toujours été été sur-protégés et puis qui ont surtout en lycée ont toujours été dans la tête de classe ceux-là se 
+se retrouvaient dans une masse de gens intelligents et en même temps assez naïfs et assez bon assez jeunes enfin 
+on avait vraiment on n'avait pas dix-huit ans. 
+On a vraiment appris beaucoup et j'ai l'impression que c'est ce qui m'a fait ce qui m'a fait beaucoup de bien mais en même temps ça m'a fait beaucoup de mal je j'étais vraiment mal toute cette année là j'ai vraiment été très 
+très malheureuse d'autant que il y a beaucoup d'in-d'interrogations à l'oral et que vous voyez je je suis pas très à l'aise. 
+Euh bon ça m'a permis de prendre sur moi peut-être un peu plus que  que si j'avais été à la fac directement mais bon 
+j'ai vraiment souffert chaque fois que j'avais une colle à préparer. 
+
+<TXT=ashp3>
+L: Donc euh j'ai j'ai à la fin de l'année je pensais pas être admise en khâgne parce que je je je suis toujours défaitiste et je pense toujours que que ça va pas marcher. 
+En fait les profs m'ont admise euh pour une année de khâgne donc euh 
+pendant tout l'été j'ai travaillé j'ai lu les programmes et relu les programmes et j'ai je je 
+j'avais vraiment l'angoisse euh de savoir ce que j'allais faire est-ce que j'allais y rester est-ce que j'allais pas y rester est-ce que j'allais être bien en khâgne ou pas. 
+J'ai décidé d'y aller donc euh  bon un peu poussée par mes parents il faut le dire. 
+Et puis parce que parce que c'est vraiment euh la khâgne pour quelqu'un de littéraire c'est vraiment le summum c'est vraiment ce qu'il y a de mieux et 
+ et on veut toujours ce qu'il y a de mieux bon! 
+Donc j'y ai été et ouh je me suis retrouvée dans une classe avec euh beaucoup de gens qui n'étaient pas dans ma classe d'hypokhâgne 
+donc c'est un p-un peu perdu un peu euh un peu seule 
+parce que mes amies étaient historiennes donc elles étaient dans l'autre classe  donc j'ai vraiment paniqué 
+et c'est là que j'ai rencontré enfin que j'ai découvert euh une autre amie qui paniquait aussi. 
+Donc toutes les deux on en a parlé on s'est on est venue s'inscrire à la fac et plutôt que quand il a fallu que à la fac on on dise si on suivrait l'enseignement de la fac ou pas 
+tout le monde disait qu'il le suivrait pas parce qu'il serait en prépa et nous on a dit qu'on resterait à la fac donc euh 
+bon ça se fait pas mais les profs nous ont pas vraiment retenus [rire] donc je pense que ça allait. 
+Donc on est parti on a découvert la fac on est arrivée en deuxième année de DEUG. 
+On a on on a été un peu perdu au début parce que bon ben c'est normal les gens qui avaient fait une première année ils savaient déjà euh 
+déjà comment ça se passait ils savaient où étaient les salles alors que nous fallait qu'on cherche partout. 
+
+<TXT=ashp4>
+L: Ils savaient ils connaissaient les professeurs un peu mieux que nous ils connaissaient les matières mieux que nous. 
+Mais bon euh on a été perdu deux jours hein après ça ça s'est quand même bien arrangé et 
+on était vraiment à enfin peut-être pas aussi à l'aise que quelqu'un de normal enfin qui avait des normal c'est bête mais enfin quelqu'un qui avait suivi le cursus 
+mais nous on était un peu mieux par rapport aux profs peut-être parce que quand on a écrit hypokhâgne sur son sur sa fiche et ben ça fait peut-être un peu mieux  bon pff je sais pas. 
+Bon ça m'a je j'ai pas regretté d'être allée en hypokhâgne puisque comme on avait des des oraux ici en prépa en fac. 
+Ben j'ai ça m'a permis de d'être un peu plus à l'aise sur certains trucs et je et je me sentais surtout plus sûre de moi parce que je je j'avais fait 
+au moins euh dix fois ce que les autres n'avaient fait qu'une fois en fac euh préparer des  des colles ça je savais le faire en une heure alors que les autres ne le faisaient pas beaucoup donc je j'étais moins perdue 
+et voilà donc j'ai passé une bonne année euh j'ai découvert des matières comme la littéra-euh la littérature comparée où la linguistique ça fait peur un peu comme ça  mais en fait c'est très sympa et les profs sont vraiment 
+on disait toujours que les profs de fac ils av-ne ne s'inquiétaient ne s'intéressent pas des ne s'intéressent pas aux élèves euh 
+sont euh dans leur monde de scientifiques euh enfin de littéraires euh de 
+de gens euh trop intelligents pour euh pour être accessibles en fait c'est pas vrai du tout. 
+
+<TXT=ashp5>
+L: On a rencontré enfin vraiment les profs ont été vraiment très sympatiques avec nous 
+pas tous c'est vrai mais vraiment proches des élèves on était 
+je m'attendais à avoir des cours en amphithéâtre on est des classes de quarante euh donc euh c'est vraiment des conditions idéales de travail c'est pratiquement comme au lycée c'est pratiquement comme en prépa. 
+Vraiment c'est c'est vraiment l'idéal euh par rapport à des gens qui sont par exemple en sociologie ou en histoire où ils ont ils sont seuls face à 
+enfin où ils ont en face d'eux un prof euh qui ne connaîtra jamais leur prénom nous les profs nous connaissaient nous appelaient par nos noms de famille et voilà. 
+Donc c'était c'est vraiment c'est vraiment pas du tout ce à quoi je m'attendais et 
+et en fait je crois que ça me correspond assez bien comme euh comme système. 
+Donc c'est pour ça que cette année je suis en licence. 
+Euh bon ben j'ai pas eu de problèmes pour passer j'ai pas dû passer de dé-d'examens en en septembre alors que c'est vraiment ce que tout le monde craint euh à la fac. 
+Et voilà donc cette année je je continue mais cette année les gens qui étaient avec moi en khâgne et qui ont continué la khâgne sont arrivés et c'est eux cette année qui sont plus à l'aise que nous. 
+Et euh vraiment on sent la différence entre les gens qui ont continué la khâgne et ceux qui l'ont pas fait donc 
+si je si j'avais en face de moi quelqu'un qui voulait faire une hypokhâgne et une khâgne et qui euh avait le moyen de faire la khâgne je pense que c'est vraiment à faire quoi. 
+
+<TXT=bavp1>
+L : Donc je me présente. J'ai des qualités qui sont utiles donc pour avoir un travail comme le dynamisme le sens de la communication qui est assez important et je suis quand même très méthodique et très organisée. 
+[claquement de langue] Donc j'ai travaillé dans plusieurs domaines euh assez jeune j'ai donné des cours particuliers d'allemand et de mathématiques quand j'étais encore à au lycée. 
+[inspiration] Euh ça a porté ses fruits puisque les jeunes à qui j'ai donné du moins des cours d'allemand ont eu des notes assez convenables à la fin de l'année. 
+Donc euh voilà pour les cours particuliers. Ensuite euh j'ai travaillé euh dans des centres de loisir euh dans des centres de loisir et euh donc je n'ai fait que de l'animation en centre de loisir sans hébergement j'ai pas fait de camps de camps. 
+Euh donc ça m'a apporté beaucoup de choses au niveau de au niveau de la connaissance sur les enfants et sur le travail en lui-même qui est un travail très difficile. 
+[claquement de langue] ça m'a permis aussi de passer mon BAFA et de d'approfondir mes connaissances sur le sur le sujet. 
+Euh ensuite j'ai fait des stages euh donc euh en des stages d'observation dans une dans une clinique donc j'ai observé des auxiliaires de puériculture dans le service maternité c'était simplement un stage d'observation. 
+<TXT=bavp2>
+Ensuite j'ai fait un stage euh d'observation d'une aide soignante en maison de retraite. 
+Donc pour comparer un petit peu les deux métiers d'auxiliaire de puériculture et aide-soignante. 
+Ensuite j'ai fait j'ai fait j'ai fait animatrice en grande distribution ça c'était très intéressant parce que ça permettait de mettre en valeur mon sens de la communication. 
+Euh donc euh  au point de vue euh [claquement de langue] contact et au point de vue euh marchand entre guillemets pour quand même essayer de vendre les produits aux clients du magasin [claquement de langue]. 
+Donc euh et ça m'a permis aussi euh de surmonter mon manque de confiance qui apparemment s'avère moins important quand je parle à des gens que je  connais pas.[inspiration] 
+Euh ensuite j'ai fait euh de la garde d'enfant chez des particuliers et euh donc ça tout au long de l'année le mercredi et le samedi. 
+Euh  ça en fait  ça ç- ça m'était euh comment dire  c'était une expérience supplémentaire par rapport aux centres de loisir euh. 
+Mais ça a pas duré très longtemps en fait ça a duré que qu'une année donc euh mais les enfants que j'ai gardé étaient vraiment supers ça m'a vraiment  ça m'a vraiment. 
+Enfin je je m'en rappellerai toute ma vie c'est les seuls enfants que j'ai gardé vraiment longtemps et euh enfin longtemps une année mais quand même mercredi et samedi c'était quand même assez je pouvais les voir souvent et du coup ben je m'en rappellerai tout le temps quoi en plus il s'appelait Victor et je m'appelle Victoria alors je m'en rappellerai tout le temps. 
+ 
+
+<TXT=bavp3>
+[inspiration] Ensuite j'ai travaillé comme réceptionniste dans une piscine municipale. 
+Donc là j'ai mis en avant euh pareil mon sens de la communication et puis mes méthodes et mon organisation pour donc l'acceuil du public et la gestion de la caisse. 
+Donc j'ai pu mettre en oeuvre toutes mes qualités euh et ça a très bien fonctionné [inspiration]. 
+Et euh ensuite une expérience difficile, j'ai castré le maïs et c'était euh très difficile, très physique [inspiration] 
+Et euh donc euh bon ben ça je l'ai pas fait très longtemps mais bon ça suffisait [rires] je l'ai fait deux étés ça suffisait mais bon c'était une expérience sympa puisque j'ai connu du monde on a travaillé en groupe et en voilà on a travaillé en groupe et c'était quand même un peu long toute la journée mais bon. 
+C'est une bonne expérience [claquement de langue]. 
+Voilà quant à mes euh mes formations donc ben en fait euh je suis donc titulaire du DEUG en sciences du langage.  
+J'ai un baccalauréat scientifique que j'ai passé en candidate libre avec le CNED. 
+[inspiration] Puisque ben en fait euh je l'ai passé aussi au lycée mon bac mais euh on l'a f- chaque fois que je passais mon bac on déménageait quatre ans d'affilée trois ans d'affilée donc ben chaque fois c'était un peu difficile. 
+Donc ben finalement j'ai préféré le passer en candidate libre et puis bon ben j'ai bien fait puisque ça a bien marché. 
+Malgré le nombre de fois que je l'ai passé enfin il suffit d'arriver à ce qu'on veut moi je voulais faire des études et donc avant de faire des études il faut avoir un bac. 
+J'ai passé mon bac et maintenant je fais des études et je suis contente d- du niveau que j'ai atteint. 
+
+<TXT=bavp4>
+[inspiration] Donc ensuite quant et ma quant à mes euh mes activités ben euh j'ai fait euh j'ai fait dix ans de piano, dix ans de danse classique. 
+Et euh en fait ça m'a donné euh ça m'a donné vraiment le goût à la musique classique. 
+J'adore ça j'adore ça ça me ça m'a développé euh je pense un sens que je que je n'avais que j'appris à en fait ça m'a aidé à développer le sens qu'on peut avoir avec la musique classique un sens de je sais pas d'écoute euh. 
+Enfin c'est ça me donne des frissons la musique classique [rires]. 
+Donc euh voilà j'ai aussi fait de la danse africaine euh suite à la danse classique. 
+Euh j'ai un goût pour l'esthétique tout ce qui touche à l'apparence physique et euh corporelle c'est-à-dire que j'aime beaucoup m'occuper de moi et j'aime beaucoup m'occuper des autres euh pour les rendre beaux. 
+Mais euh c'est euh c'est personnel je trouve que c'est important dans la vie de d'avoir une bonne présentation. 
+Donc j'ai beaucoup de goût pour l'esthétique et les travaux manuels aussi donc que ce soit des travaux manuels esthétiques ou des travaux manuels pour des activités quelconques de pâte à sel ou de ou de pâte Fimo dont on parlait tout à l'heure ou de n'importe de de plein de choses de de la terre aussi travailler la terre enfin bon tous les petits travaux. 
+On est actuellement en train de refaire l'appartement ben je fais toutes les peintures et tout ça donc je me régale voilà donc ça c'est c'est moi j'aime bien faire les petits trucs minutieux. 
+ 
+
+<TXT=boap1>
+
+Top.Bon ben je m'appelle Aurélie Boilevin. 
+Euh j'ai vingt ans. 
+En fait j'en aurai vingt et un dans deux jours. 
+Et euh jusqu'ici j'ai toujours voulu être institutrice. 
+Et en fait c'est quelque chose que je pense euh ne changera pas ! 
+Euh c'est un désir que j'ai depuis l'âge de euh treize ans et je peux dire que j'ai orienté tout mon cursus euh scolaire  dans cette euh dans ce  but là. 
+Puisqu'en fait euh dès le la lycée j'ai choisi euh l' orientation littéraire parce que j'avais une sensibilité plus littéraire que scientifique 
+mais euh j'ai conservé euh les mathématiques parce que je savais que euh plus tard j'en aurais besoin pour être institutrice ou prof des écoles comme on dit maintenant 
+et mh de même lorsque  j'ai choisi de faire euh une classe préparatoire par la suite c'était en vue de garder euh une polyvalence des matières et ne pas avoir à me spécialiser ce qu'il m'aurait fallu faire si j'étais rentrée directement à l'université. 
+
+<TXT=boap2>
+Donc euh aujourd'hui ben je suis en licence  
+et euh me voilà à quelques mois du concours d'entrée à l' I.U.F.M. en première année 
+que j'espère réussir  
+mais euh je sais très bien que si mon but  euh et euh mon projet orienté depuis euh ces quelques années est d'être institutrice  
+ça ne sifinir-ça ne signifie pas que ça fera de moi une bonne institutrice parce que je sais qu'il s'agit pas de vouloir être une bonne prof pour être une bonne prof 
+et euh je sais pertinemment qu'il euh qu'il s'agira pour moi de conforter cette euh cette envie que j'ai d' être une bonne prof en faisant euh du mieux que je peux dans mon exercice 
+mais euh je connais des personnes qui  depuis des années euh veulent rentrer à l' I.U.F.M. qui n'y arrivent pas et je me dis  si moi je n'y arrive pas au bout de quelques années ça signifira que je ne suis pas faite pour ça et qu'il faudra me diriger vers autre chose. 
+
+<TXT=boap3>
+Il me semble également que euh une maîtrise pour moi ne  je ne suis pas tentée par une maîtrise. 
+Je n' ai pas envie de travailler sur un sujet euh bien particulier de maîtrise. 
+Donc si je réussis pas si je ne réussis pas à rentrer en IUFM euh en première année 
+euh je recommencerai peut-être une première année de psychologie de l'enfant ou euh quelque chose qui me permettra euh  d'asseoir mon envie d'être institutrice. 
+Alors pourquoi est-ce que je veux être institutrice euh je veux être institutrice parce que euh il me semble que pour l'enfant le passage de l'école maternelle et primaire est primordial dans la construction de sa propre personnalité et de son futur à la fois scolaire et individuel en tant que personne. 
+Et euh je veux être institutrice parce que euh [brouhaha-des gens parlent] lorsqu'à trois ans quatre ans l'enfant rentre en première classe de maternelle il sort vraiment du cocon familial où il a toujours été euh protégé 
+et il rentre dans un autre domaine qui est le domaine de euh la petite école et de l'école 
+et après euh cette petite école et cette  école on il est un petit peu livré à lui-même 
+
+<TXT=boap4>
+
+Donc en fait je souhaite être euh le trait d'union entre euh ce cocon familial et euh la vie scolaire et euh surtout sociale que lui réserve la suite. 
+Donc être institutrice pour moi représentera un accompagnement et euh je l'espère euh me permettra de d'inculquer des bases qui seront les fondements de leur vie plus tard 
+et sur toute leur euh leur vie scolaire puisque euh c'est déjà dans les petites classes que commence en fait euh l'assurance d'être un bon ou un mauvais élève.Donc euh je me souhaite vraiment d'arriver à avoir ça et surtout de ne pas être déçue si j'y arrive pas à cent pour cent parce que je sais que on est des humains et puis on a tous droit à l'erreur et 
+en fait c'est un taux euh maximum de pourcentage qu'il y a à viser et pas bien sûr le cent pour cent même si c'est très bien.Voilà. 
+
+<TXT=coap1>
+
+ 
+Oui alors nous allons changer de d'époque puisque je m'intéresse à des corpus contemporains 
+PAUSE 
+et en plus des corpus spécialisés et euh plus particulièrement du point de vue du lexique donc de la terminologie. 
+ 
+Et ce dont je voudrai parler aujourd'hui c'est finalement euh étant donné mon expérience de constitution de corpus à partir de terminologie qu'est-ce que je peux en dire sur la compétence linguistique c'est à dire essayer de de donner de de de faire des réflexions sur mon expérience et évidemment alimentée de de lectures que j'ai pu avoir par ailleurs. 
+Alors je dois appuyer là. [bruit + froissement de papier] 
+Donc en fait ce qui m'intéresse c'est euh avoir une démarche clairement linguistique c'est-à-dire d'ancrer euh l'approche terminologique dans une euh perspective théorique qu'elle n'a souvent pas puisque la terminologie c'est souvent d'abord une pratique.    
+Et par ailleurs euh même quand il y a une euh référence théorique c'est souvent une référence qui est à celle de la terminologie con- que j'appellerai conceptuelle qui vient de des travaux de Wüster donc de du des des années trente de de ce siècle et euh qui dans tous les cas euh considère que les concepts sont prédéfinis et que finalement il faut identifier les termes qui euh j'a- j'allais dire presque étiquettent ces concepts. 
+Donc là c'est cette perspective conceptuelle qui est quand même beaucoup remise en compte depuis une dizaine d'années et qu'on essaie de substituer par une terminologie textuelle qui en plus l'intérêt donc d'ancrer clairement euh cette discipline dans la linguistique. 
+Et et je pense que d'ailleurs à Toulouse on a on a contribué euh en partie euh à cet ancrage.  
+
+<TXT=coap2>
+Alors d'emblée  euh cet élément m'amène à tenir compte de quel- de quelque chose d'important 
+qui est que euh nécessairement quand on travaille sur un corpus spécialisé on a pas la compétence de locuteur pour travailler sur ce sur ce corpus spécialisé. 
+Et d'emblée je ferai un distingo que je reprendrai tout au long de mon exposé qui est que par compétence linguistique je crois qu'on confond parfois deux choses qui est d'une part la compétence langagière la compétence de locuteur et d'autre part la compétence de linguiste et j'essaierai de de de distinguer ce qui est pour moi la compétence langagière et ce qu'est la compétence de linguiste. 
+[Froissement de papier et Bruit] 
+Alors je vais vous faire un peu euh il y a un côté un peu vraiment expérience au sens où j- je vais vous dire un peu comment ma pensée a évolué 
+puisque euh mon premier ma première tentative pour caractériser le fonctionnement des termes ça a été euh de partir du constat que me semblait-il les terminologues lorsqu'ils a- ils identifiaient des termes donc euh sur des bases euh pas pas du tout euh systématiques ils s'intéressaient quand même beaucoup au fait que euh il y avait certains éléments euh lexicaux en particulier qui paraissaient euh fonctionner sur un mode non attendu. 
+euh et j'ai essayé d'exploiter ce euh ce ce fait-là c'est à dire le le fait de de travailler sur quelque chose qui était non attendu pour essayer de mettre en place une une façon systématique d'identifier les termes. 
+
+<TXT=coap3>
+ 
+Euh au passage ça veut dire mais enfin je vais y revenir euh c'est une approche qui clairement suppose que il y a quelque chose de de l'ordre d'un disfonctionnement et c'est en fait ce même type d'idée qu'on retrouve souvent dans les travaux sur les figures rhétoriques bon très souvent on parle d'écart on on parle de quelque chose qui est euh a- anomal en tous cas par rapport à quelque chose qui serait une norme. 
+Mais je vais revenir sur cette euh question et euh il faut savoir aussi que par exemple dans le projet EUROTRA euh c'est par euh des systèmes de de représentations sous forme de disfonctionnement que la terminologie est caractérisée était caractérisée par rapport au lexique général. 
+ 
+Donc je veux dire je ne suis pas je n'étais pas isolée dans cette- dans cet essai de caractérisation des termes euh par le la définition des- de types de fonctionnement 
+PAUSE 
+Alors effectivement euh j'ai essayé de classer les types de disfonctionnements que je pouvais rencontrer et j'en ai trouvé quatre mais enfin bon j'aurai pu continuer à en trouver d'autres 
+ 
+Alors premièrement effectivement premier type de de fonctionnement non attendu c'est euh des mots ou des groupes de mots qui sont inconnus. 
+Alors évidemment inconnus de la compétence de locuteur de celui qui fait l'étude. 
+Par exemple dans un corpus de MATRA-MARCONI-SPACE il y avait des mots comme "actionneur" "étagiste" qui ne faisaient pas partie de notre compétence de locuteur qui était en l'occurence des des linguistes qui travaillaient sur ce qui travaillons sur ce corpus et donc c'était pour nous un indice d'un fonctionnement terminologique. 
+ 
+Même type de enfin euh euh autre type plutôt de de disfonctionnement une fréquence anormalement élévée. 
+Par exemple toujours dans ce corpus de MATRA très souvent était utilisé le le mot simulation. 
+ Bon c'est pas étonnant puisque c'était un corpus sur les bancs de tests et les simulations de satellites. 
+Euh il faut savoir que euh du point de vue euh de de traitement automatique les outils mettent souvent en oeuvre cet élément c'est à dire d'une fréquence  enfin d'une fréquence très importante d'un mot ou d'un groupe de mots pour euh éventuellement repérer des termes. 
+
+<TXT=coap4>
+ 
+Autre type de fonc- de disfonctionnement [toux en bruit de fond] qui qui devient déjà un peu plus difficile à caractériser : 
+le fait que  euh certaines structures amani- apparaissent de manière elliptique. 
+Alors c'est le cas très souvent avec euh la disparition de mots vides qu'on appelle vides par exemple "documentation projet". 
+Bon ça c'est des c'est des des struc- des formes qu'on trouve très souvent euh dans les corpus spécialisés c'est à dire avec suppression de la préposition et ou du déterminant. 
+ 
+Mais éventuellement il peut y avoir aussi et mais on arrive dans quelque chose qui effectivement touche déjà beaucoup plus au sémantique et qui est beaucoup plus difficile à caractériser parfois des mots pleins. 
+Et par exemple sur un corpus de la banque j'ai pu trouver euh un prédicat comme "déposer sur un compte". 
+Alors déposer en principe on n-  on enfin en principe on attendrait un argument objet bon évidemment euh dans le domaine de la banque il y a pas cinquante choses qu'on peut déposer donc en fait euh [sourit] en fait il y a une il y a une ellipse là de de l'argument mais c'est quelque chose qu'on peut eventuellement utiliser pour repérer un fonctionnement terminologique. 
+ 
+Autre type de de com- de combinaison anormale entre guillemets c'est euh là plutôt euh la- plutôt soit l'ajout d'un argument par exemple "geler un test" qui était toujours dans le corpus de MATRA-MARCONI-SPACE. 
+Bon on peut penser que geler en principe ne prend pas d'argument objet 
+ 
+ou documenter un logiciel et là on peut penser que euh l'argument attendu c'est plutôt un argument de type humain et que le fait qu'on ait un argument non humain oriente vers euh le repérage là d'un fonctionnement terminologique. 
+
+<TXT=coap5>
+On peut avoir aussi une coordination inattendue comme toujours dans le corpus MATRA "il n'y a pas de chiens de garde ou de logique de reconfiguration" alors "chien de garde" c'est bien on connaît c'est c'est un groupe de mots qu'on connaît sauf que dans ce type de contexte c'est coordonné avec "logique de reconfiguration" c'est un indice d'un fonctionnement év- éventuellement terminologique. 
+ 
+Alors euh alors à la fois euh il y avait quelque chose d'intéressant me semblait-il là et en même temps il y a quelque chose qui évidemment euh posait problème c'est euh pour qu'on puisse repérer un un disfonctionnement il faut qu'on ait une référence et que cette référence soit stable. 
+En tous cas pour qu'on puisse f- repérer ce disfonctionnement systématiquement voire automatiquement. 
+Or euh il est évident que la de- la je parle de la compétence d- de locuteur euh d'une langue sur un corpus s- pour un corpus spécialisé cette compétence varie d'un analyste à l'autre au point que même si on peut utiliser euh cette approche de repérage de d'un disfonctionnement de manière plus ou moins intuitive ce ce qui est pas du tout péjoratif pour moi en réalité c'est extrêmement difficile à systématiser parce qu'il y a des variations d'un locuteur à l'autre. 
+[Bruit de papier] 
+Alors [raclement de gorge] euh j'ai essayé de voir euh pourquoi euh c'était impossible de fixer une référence ce qui est une façon pour moi de dire ce que me semble être la compétence de locuteur. 
+Alors premièrement et ça euh c'est quelque chose qui est liée au au type de d'étude qu'on fait euh la notion de disfonctionnement même pour un l- même individu varie. 
+C'est-à-dire que euh quand on commence à lire un corpus on a des intuitions sur des éléments qui disfonctionnent quand on l'a lu deux ou trois fois ou qu'on a travaillé pendant un certain temps sur ce même corpus on a plus aucune intuition sur ce corpus 
+tout paraît parfaitement lisse et et donc très rapidement c'est de toute façon quelque chose qu'on ne peut pas mettre  en oeuvre. 
+Alors évidemment plus compliqué et plus euh et en même temps plus classiquement peut-être décrit le le dans les chez les les différents auteurs évidemment il y a une variation d'un individu à l'autre. 
+
+<TXT=coap6>
+ 
+Alors il me semble euh que euh on peut expliquer cette variation par le le le phénomène même d'apprentissage  
+c'est à dire que euh ce que je crois c'est que lors de l'apprentissage on combine une expérience individuelle parce que euh ce qui me semble important c'est que la notion de perception qui est généralement utilisée pour justifier la notion d'universaux moi me semble être à utiliser pour justifier une ind- individualité différente et et une euh expérience différente d'un individu à l'autre.  
+ 
+Mais en même temps évidemment l'expérience de la langue et de l'apprentissage de la langue c'est aussi l'expérience de la socialisation et l'expérience d'une référence à des groupes de locuteurs qui existent déjà. 
+Et il me semble que simultanément l'apprentissage c'est à la fois une expérience individuelle dans des contextes tout à fait euh particuliers et en même temps le fait que on est intégré dans une communauté de locuteurs au moment de cet apprentissage. [toux en bruit de fond] 
+ 
+Alors finalement euh qu'est-ce que ça veut dire euh par exemple créer une référence par introspection je crois que j'anticipe un peu sur euh non c'est c'est bien ce que je voulais dire euh je trouve que la notion d'in- d'introspection dans ce type de euh de perspective me paraît un peu bizarre. 
+Je veux dire euh si euh en général par introspection ce qu'on retrouve c'est une expérience individuelle or par introspection bien souvent ce qu'on est censé retrouver quand on parle de linguistique c'est une expérience collective et ça me paraît moi complétement ambigu. 
+
+<TXT=coap7>
+Enfin si je peux si je peux dire c'est-à-dire que finalement qu'est-ce qu'on demande à un locuteur quand on lui demande de définir par introspection c'est évidemment pas de retrouver son expérience d'apprentissage qui sauf dans quelque cas mais qui paraît tout à fait euh tout à fait impossible c'est retrouver une expérience collective mais ça me paraît abso- ab- à peu près impossible. 
+ 
+Par ailleurs euh très souvent  cette référence on la fixe sous la forme de mots ce qui est encore une une situation qui est euh qui ne correspond pas du tout à la situation d'apprentissage qui elle est une apprentissage de discours dans un contexte de discours. 
+Donc là aussi ce qu'on demande c'est en plus élaborer sous sous sous des éléments qui sont euh d- des éléments uniquement lexicaux quelque chose qui relève en réalité d'un apprentissage évidemment sous forme de discours. 
+ 
+Donc euh je crois que de toute façon quand on parle de de création d'une référence ou de ou de di- définition par introspection de toute façon il s'agit toujours d'une reconstruction et qui est souvent assez peu contrôlée. 
+Et ce que je vais essayer de proposer peut-être c'est d'arriver à quelque cho- à à voir où on peut mettre du contrôle pour que on puisse arriver à quelque chose qui soit un peu scientifique j'allais dire c'est à dire éventuellement reproductible et de toute façon euh de toute façon en tous les cas expliqué c'est à dire comment on on arrive à une élaboration en fonction de quels éléments tout ça peut être mis euh en place. 
+[Bruit de papier] 
+Alors euh je vais arriver à cette problématique en euh évoquant une autre piste que j'ai euh puisque j'ai considéré que c'était finalement euh pas complétement négatif cette piste de du repérage d'un disfonctionnement mais que c'était pas non plus complétement satisfaisant. 
+J'ai donc exploité euh une autre piste qui est celle de l'élaboration d'un réseau euh relationnel. 
+ 
+Euh parce que je crois que là il peut y avoir quelque chose où justement on va pouvoir mettre suffisamment de contrôle qui permettra d'avoir une él- une élaboration qui elle sera beaucoup plus euh systématique et justifiée. 
+
+<TXT=coap8>
+ 
+Mais euh il me semble que ça n'est possible que euh dans un cadre qui évidemment du coup va être euh assez fixé 
+c'est-à-dire c'est un cadre que euh qui va supposer que en particulier l'objectif de la constitution de de ces données soit parfaitement identifié. 
+L'objectif lui-même va permettre d- de définir comment on va constituer le corpus et c'est celui qui va aussi permettre de justifier les choix de modélisation qu'on va faire. 
+ 
+Donc finalement cette constitution d'un réseau relationnel à partir d'un corpus va faire intervenir trois éléments : la compétence langagière du linguiste qui est la compétence de locuteur qui est la compétence de tout locuteur j'allais dire donc avec des variations d'un locuteur à l'autre 
+les données du corpus et l'objectif de la construction. 
+[bruit de feuilles de papier] 
+Donc clairement pour moi étudier euh un corpus construire une terminologie à partir d'un corpus ça n'est absolument pas un appariement entre un co- une compétence préexistante et une do- et des données du corpus c'est l'élaboration de données nouvelles l'explicitation de cette élaboration et lorsque c'est possible la généralisation de cette élaboration 
+ce qui suppose de passer par un repérage de types d'applications de types de corpus donc de genres et de types de régularités en corpus qui vont être essentiellement syntaxiques. 
+C'est-à-dire que ce que je crois c'est que pour contrôler un tant soit peu la variation sémantique qui est omniprésente je crois en réalité en corpus il faut contrôler beaucoup de choses qui sont plutôt de l'extralinguistique ou plutôt en tous cas de l'extra-sémantique pour que l'interprétation sémantique puisse prendre toute son expansion. 
+
+<TXT=coap9>
+
+En tous cas c'est ce que je pense 
+[bruits de feuilles de papier] 
+Donc finalement qu'est-ce que ça veut dire élaborer un réseau terminologique à partir d'un corpus ça veut être ça veut dire passer d'une forme sémiotique à une autre et passer d'une forme sémiotique qui est discursive évidemment qui est linéaire et syntaxique à une autre forme qui est essentiellement nominative d'ailleurs on a- il y a essentiellement des no- des noms dans ce genre de modélisation spatiale pa- par opposition à linéaire c'est à dire qu'il y a vraiment cette idée de euh vraiment de spatialisation je crois par rapport euh par rapport à la linéarité du texte et asyntaxique. 
+Là excusez-moi j'aurai dû mettre X  j'aurai dû mettre asyntaxique euh dessous.
+
+
+
+ 
+ 
+Euh or clairement là il s'agit d'une interprétation. 
+Euh par ailleurs euh cette notion de réseau en réalité est utilisée dans beaucoup de disciplines bon on la trouve  bon on on parle de bases de connaissance terminologiques par exemple mais on parle  on en on parle aussi  des d'ontologie en in- en intelligence artificielle ou en ingénierie des connaissances en didactique on parle aussi de cartes conceptuelles donc il y a il y a vraiment cette idée que euh c'est une forme de représentation qui est utile et bien  souvent euh elle est considérée comme utile parce que souvent à tort on a tendance à considérer qu'elle est beaucoup moins ambigüe que le corpus dont elle est issue. 
+Or en réalité à nouveau et ça les didacticiens l'ont en particulier bien euh noté pour que il y a il n'y ait vraiment pas d'ambiguités très clairement il faut que le point de vue avec lequel on a constitué ce réseau ait été identifié c'est-à-dire l'objectif de la modélisation en en particulier ah je je reviens toujours là-dessus.  
+
+<TXT=coap10>
+Alors [raclement de gorge] pour arriver à construire ce réseau euh je prends l'hypothèse mais je- c'est pas une hypothèse qui que j'ai inventée hein c'est une une hypothèse qui est très couramment euh admise 
+qui est que euh dans ces corpus on va pouvoir utiliser cer- certains passages certains contextes parce que ils sont considérés comme des marqueurs de relations justement 
+donc euh c'est c'est cette hypothèse que j'ai euh travaillée et en gros je dirai euh en première approximation un marqueur c'est un élément lexico-syntaxique sur lequel l'interprétation peut s'appuyer pour construire une relation. 
+Derrière cette idée de marqueur et de relation il y a un certain nombre de postulats qui sont généralement admis et en fait que je vais euh être amenée à à remettre en question de par l'expérience que j'ai pu avoir en corpus ces marqueurs sont d'abord ces pardon ces postulats sont d'abord que ces marqueurs peuvent être définis par introspection et ils peuvent être définis parce qu'il y a un système de marqueurs par langue donc il suffit de réfléchir et on les trouve. 
+D'une certaine façon c'est c'est un peu le le postulat. 
+ 
+Les relations ces fameuses relations sont binaires essentiellement binaires dans dans pratiquement tous les types de de mo- de modèles de ce type qu'on trouve il y a une une idée de relation binaire 
+Et c'est ce sur quoi je j'insisterai plus particulièrement c- ces marqueurs sont en fait des éléments qui donnent le sens de la relation. 
+Et je vais montrer qu'en fait je crois que les choses sont un peu plus compliquées que ça. 
+enfin j'espère que je vais pouvoir le montrer. 
+[bruit de papier] 
+Je me suis donc intéressée entre autre à euh bon avec clairement l'idée qu'effectivement on pouvait difficilement dire qu'il y avait un système de marqueurs qu'on pouvait retrouver par introspection j'ai essayé d'identifier la nature des liens qu'il pouvait y avoir entre les corpus et les marqueurs. 
+ 
+Alors il y a d'abord effectivement des des cas de liens que j'ai appelés de liens très lâches qui viennent euh des des cas qui correspondent euh à des corpus enfin plus exactement des marqueurs qui semblent apparaître dans tous les genres de corpus. 
+
+<TXT=coap11>
+Euh c'est à dire qu'on a du mal je pense pas que ce soit absolument impossible mais en fait on a du mal à identifier un genre de corpus qui serait associé à un à un à un style à un type de marqueurs. 
+Bon c'est le cas par exemple de certains marqueurs d'hyperonimie comme tous les N un sauf N deux bon par exemple euh Léa aime toutes les fleurs sauf les roses par exemple sauf que déjà c- déjà ça je suis pas sûre qu'on le trouve dans tous les corpus mais enfin bon. 
+ 
+Et il se trouve que la plupart de ces marqueurs ont d'ailleurs été décrits par introspection et qu'ils sont d'ailleurs tout à fait bien décrits et tout à fait pertinents. 
+ 
+Euh au point que je crois qu'on peut dire que ces marqueurs font partie de la compétence de locuteur. 
+ 
+Euh bon j'ai eu des j'ai eu des expériences par exemple de euh quand j'ai donné des cours dans une école d'ingénieur où à priori le le les gens n'ont aucune compétence linguistique c'est des gens vous leur dites euh voilà des exemples où il y a une euh une relation d'hyperonimie bon euh quelle est cet- comment on voit cette relation et quel est le marqueur qui permet de la repérer ils savent très bien faire euh ça. 
+Donc j'en déduis que ça fait partie de la compétence de locuteur. 
+ 
+Et me semble-t-il si ça fait partie de la compétence de locuteur c'est parce que d'abord c'est une relation qui est très fréquente et qu'en plus ces marqueurs dans le dans le cadre de l'apprentissage ont été très fréquemment associés à cette relation. 
+ 
+La notion de fréquence me sem- me semble extrêmement importante 
+ 
+de de fréquence de de contact av- avec des phénomènes linguistiques. 
+ 
+Donc euh mon mon mon avis c'est que ces marqueurs effectivement font partie de la compétence des locuteurs. 
+[bruit de feuilles] 
+Inversement [bruit] on peut avoir des marqueurs qui sont qui me semblent complétement dépendants d'un corpus et d'un corpus et pas d'un genre de corpus. 
+
+<TXT=coap12>
+Alors par exemple c'est sur un travail qu'on avait fait avec Josette Rebeyrolle qui est là. 
+ 
+Euh on a travaillé sur un corpus de génie logiciel et on s'est aperçu que la re- relation 'condition' était marquée par le euh le mar- le marqueur euh suivant. 
+C'est-à-dire on avait soit le mot 'phase' soit le mot 'étape' ou un déverbal suivi de 'lorsque' ou 'dès que' et suivi d'un verbe au passif. 
+Par exemple 'la phase d'intégration du composant peut commencer lorsque l'ensemble des éléments logiciels ont été codés' ou bien 'cette transition est déclenchée par le responsable des développements dès lors que toutes les manifestations spécifiées sont implémentées. 
+Ce que ça veut dire là c'est pas c'est pas simplement ce qui est exprimé c'est pas simplement une succession comme p- pourrait le laisser penser l'utilisation des conjonctions de subordination c'est bien une condition. 
+C'est-à-dire que ça veut dire que euh 'la phase d'intégration du composant ne peut commencer que' en réalité c'est ce que ça veut dire 'lorsque l'ensemble des éléments logiciels ont été codés'. 
+C'est donc bien une relation de condition qui s'exprime dans ce type d'exemples. 
+D'ailleurs il y avait d'autres exemples où ex- explicitement enfin où il y avait euh le me- une utilisation de conjonctions de subordination temporelles mais dans une autre structure et qui ne renvoyait pas du tout au même type de euh à la m- au même type de relation. 
+ 
+Alors me semble-t-il là on est bien dans la compétence du linguiste qui est la capacité à repérer cette relation dans cette structure et à déterminer aussi des méthodes pour la repérer. 
+ 
+Et ça euh je crois que on est déjà beaucoup moins euh dans ce qui est la compétence des locuteurs ça demande une élaboration ça demande une une euh réfllexion et c'est quelque chose qui euh me semble-t-il fait beaucoup plus partie d'une compétence de linguiste. 
+[Bruit papier] 
+
+<TXT=coap13>
+ 
+Alors d'autres euh marqueurs euh qui fonctionnent aussi euh en lien avec un corpus mais cette fois-ci c'est pas un corpus individuel c'est un corpus qui appartient à un genre très particulier. 
+ 
+Alors c'est le cas de 'avec' par exemple qui dans certains genres de corpus paraît en tous cas fonctionner comme un marqueur de méronymie. 
+ 
+Alors euh j-  je sais pas si Christine Pernet est là qui a travaillé sur un catalogue de jouets. 
+Et dans ce catalogue de jouets effectivement le mot 'marqueur' semble fonctionner comme pardon le mot 'avec' semble fonctionner comme un marqueur de méronymie. 
+Si je dis 'une cuisine moderne avec hotte plaques de cuisson coin repas' clairement je pense que 'hotte plaques de cuisson coin repas'  on est là dans la une partie de cuisine. 
+ 
+Alors j'ai essayé de voir s'il y avait d'autres genres de corpus dans lesquels on pouvait retrouver ce marqueur. 
+ 
+Alors il me semble qu'il y a les petites annonces. 
+ 
+Sauf que euh bon par exemple si vous dites cui-' T3 avec cuisine intégrée' je pense que 'cuisine intégrée' on peut dire que c'est une partie de de T3. 
+ 
+Problème si vous dites 'maison avec jardin' est-ce que le jardin fait partie de la maison? 
+Euh déjà on est dans quelque chose d'un peu plus euh compliqué. 
+Par ailleurs euh contrairement au catalogue de jouets où on pouvait avoir très bien alors là on a une 'cuisine moderne' mais on pouvait avoir très bien euh oui d'ailleurs ça change rien. 
+ 
+Euh ce qui semble euh important dans les petites annonces c'est que vous n'auriez jamais 'T3 avec cuisine' parce que effectivement [hésitations inaudibles] on en principe dans un T3 dans tout type d'appartement il y a une cuisine. 
+Donc pour qu'on on puisse avoir en réalité l'expression d'une méronymie là il faut  qu'on ait euh une une euh un adjectif en tous cas qui enfin ou quelque chose de de ce type-là qui caractérise la cuisine. 
+
+<TXT=coap14>
+ 
+Donc ce que je veux dire là c'est que en fait euh l'étude du marqueur dans ce cas-là va au delà de l'identification d'un mot d'une re- corrélation entre un mot et un genre de corpus il faut aussi définir le contexte syntaxique précisément dans lequel il apparaît. 
+ 
+Euh et ce que je crois là c'est que peut se mettre en place une véritable linguistique de corpus au sens où on va établir une relation entre un phénomène linguistique et un genre de corpus. 
+ 
+Et je dirai je dis bien un phénomène linguistique c'est-à-dire que pour moi il s'agit pas d'étudier 'avec' et d'étudier le fonctionnement d'avec dans tout un tas de corpus en disant 'tel genre' etc. 
+Je parle là d'u- d'étudier 'avec' lorsqu'il marque la méronymie. 
+Et je pense que c'est quelque chose qui va permettre de contrôler euh un fonctionnement. 
+Mais du coup qui ouvre énormément de possibilités sur l'analyse linguistique c'est-à-dire que finalement on se donne un cadre extrêmement précis qui est un un fonctionnement une interprétation particulière. 
+On a une hypothèse bon alors c'est vrai qu'il faut déjà trouver l'hypothèse sur le corpus dans lequel ce fonctionnement va être identifié et on étudie pour confirmer l'hypothèse et pour caractériser la structure syntaxique qui va être pertinente pour euh identifier ce marqueur. 
+ 
+Alors autre cas encore plus compliqué euh il se trouve que euh dans un certain nombre de phrases et surtout dans un des corpus bien particuliers 'chez' le la la préposition 'chez' semble associée à une interprétation méronymique. 
+ 
+Alors c'est le cas euh dans des corpus de sciences naturelles et dans des corpus didactiques. 
+
+<TXT=coap15>
+C'est-à-dire que je j'ai f- donc j'ai fait une une étude qui euh qui permet de de de de mettre en évidence que effectivement si ces corpus sont de sciences naturelles mais pas didactiques on baisse c'est-à-dire qu'on trou- on trouve à peu près trente pour cent de de d'exemples valables. 
+ 
+Euh alors en fait ce qui se passe c'est que bon c'est des cas par exemple comme 'chez les Colobinés le nez fait saillie sur la lèvre supérieure' où on a une relation de méronymie entre 'nez' et 'colobinés'. 
+En fait de méronymie c'est même de l'anatomie. 
+C'est-à-dire que ce qui se passe c'est que 'chez' permet de de de topicaliser finalement sur un un un être vivant puisqu'il s'agit toujours de de sciences naturelles et ensuite on a un déterminant et un nom qui dans cinquante pour cent des cas renvoient à un élément anatomique. 
+Mais il y a des cas où où ce ce même euh syntagme nominal ne renvoie pas à un élément anatomique par exemple si on a 'chez le fraisier la préfloraison est calvaire pour le calice quinconciale pour la corolle' il y a pas de relation de méronymie entre 'préfloraison' et 'fraisier'. 
+ 
+Donc tout ça x c'est-à-dire qu'il y a  il y a une espèce de alors je sais pas si c'est une connaissance présupposée et cete- ou ou ou de c'est c'est euh une connaissance qui apparaît dans un autre co- corpus d'une certaine façon mais ce qui est clair c'est que ce n'est pas 'chez' qui permet l'interprétation méronymique. 
+'Chez' finalement n'est qu'un indice de la possibilité que dans ce genre de contextes on aura une relation méronymique. 
+Et dans ce cas-là je sais pas si on peut dire que 'chez' 'est un marqueur de relation. 
+ 
+On peut dire ça ou on peut dire aussi mais finalement peut-être que les marqueurs ce qu'on appelle marqueurs ne sont en réalité pas des marqueurs au sens où ils ne donnent pas la clé d'une interprétation 
+ils donnent un indice d'une possibilité d'interprétation et qui doit être beaucoup euh nettement explicitée. 
+
+<TXT=coap16>
+Bon par exemple j'ai pris un autre un un autre exemple qui est le l'exemple de 'comme' en plus euh c'est pas un très bon exemple parce que les d- les deux les deux extraits ont viennent du même corpus mais bon 
+ce qui veut dire que dans ce cas-là le genre du corpus ne n'est pas discriminent. 
+Ce que j'espère c'est que dans ce cas-là ce qui sera discriminent c'est la structure syntaxique ou phrastique puisque là c'est le la ponctuation qui qui peut-être va jouer un rôle. 
+Donc un exemple comme 'un département comme la Seine bénéficie à la fois d'arrivée d'enfants et de scolaires' donc là on a on a pas du tout une expre- si on a là l'expression d'une hyperonymie c'est-à-dire que la scène est- enfin l'expression oui de l'é- dans l'énoncé que la Seine est un département. 
+En revanche dans l'exemple 'on comprend que les lycées professionnels et d'enseignement général comme l'université soient très peu tournés vers les formations scientifiques et technologiques' là on a plus expression d'une hyperonymie on a une comparaison mettons or la structure est extrêmement proche. 
+Dans ce con- dans ces deux cas-là la seule différence c'est le fait qu'on a une virgule après euh euh 'enseignement général' dans le second exemple. 
+ 
+Euh alors bon ce que j'espère c'est que on va pouvoir mettre en oeuvre une linguistique de corpus qui [silence et toux dans le fond] even- tiendra compte du fait qu'on travaille sur un élément mais en tant qu'il est as- associable avec une relation qu'on tiendra compte du genre du corpus dans les- dans lequel ces ces marqueurs euh dans lesquels ces marqueurs peuvent apparaître et qu'on tiendra compte de la structure syntaxique la plus précise possible dans la- dans lesquelles ces ces marqueurs peuvent apparaître. 
+C'est donc euh quelque chose de ex- beaucoup plus sophistiqué que ce qu'on entend en général par la notion de de marqueurs et euh enfin c'est c'est encore quelque chose sur quoi je dois réfléchir mais je me demande si la notion de marqueurs c'est pas en général très souvent plutôt l'idée d'un indice d'une possible interprétation. 
+C'est pas c'est pas l'élément lui-même qui donne la clé de l'interprétation c'est plutôt un ensemble d'éléments euh de co- de de qui qui convergent et pour favoriser une interprétation mais je ne suis pas du tout certaine que la notion de marqueur soit vraiment l'idée qu'il y a une clé qui soit donnée à l'interprétation. 
+[Bruit de feuille de papier] 
+J'en arrive à la conclusion [raclement de gorge]. 
+
+<TXT=coap17>
+Alors [toux] ce qui me semble c'est que à travailler sur euh la constitution de terminologies à partir de corpus on est dans une situation qui grossit un phénomène qui est toujours présent dans l'analyse de corpus. 
+C'est-à-dire d'une part on a pas la compétence de de locuteur complète c'est- enfin je veux dire il s'agit pas comme j'ai déjà dit tout à l'heure d'apparier une compétence préexistente avec une compétence sur laquelle on on plaquerait euh avec des données sur laquelle on plaquerait [toux] une une compétence. 
+Je crois vraiment que c'est une nouvelle expérience finalement du point de vue de de de de la compétence de locuteur de travailler sur un nouveau corpus. 
+ 
+Euh  je crois aussi que l'analyse de corpus c'est toujours une analyse qui a une inten- une une analyse qui a une intention. 
+Dans le cas de la constitution de terminologies c'est une une intention extérieure j'allais dire puisqu'il s'agit de répondre à un besoin qui nous est donné de l'extérieur. 
+Dans le cas euh d'une interprétation j'allais dire plus théorique il y a aussi une intention qui est euh finalement j'allais dire peut-être de de de de faire un travail euh systématique entre guillemets scientifique probablement et qui vise à identifier des régularités 
+ce qui nous met souvent dans une situation d'ailleurs difficile parce que les régularités à partir de corpus elles sont pas si faciles que ça et à faire émerger. 
+Alors évidemment on comprend les gens qui ne travaillent pas à partir de corpus puisqu'évidemment c'est facile de faire émerger des régularités sur des exemples que vous s- que vous forgez. 
+dire bon on on se donne la théorie on forge les on forge les exemples et et effectivement on constate que les exemples correspondent à la théorie donc ça c'est parfait. 
+Quand on est confronté à des données attestées qu'est-ce qu'on fait ? 
+Alors évidemment alors récemment une collègue m'a dit que elle il y avait des données attestées dans euh devant lesquelles elle mettait une astérisque. 
+
+<TXT=coap18>
+bon qu'elle considérait comme agrammaticales bon c'est une façon de procéder. 
+Evidemment c'est pas celle que je peux souhaiter mais en même temps on se met dans une situation difficile parce que la variation comme je disais tout à l'heure est omniprésente. 
+Et je v- et je pense qu'on ne peut la contrôler qu'en se donnant un cadre extrêmement euh clair avant même le l'étude. 
+Euh  
+Donc comme j'ai dit ce que je crois c'est qu'en tous cas pour la notion de marqueur de relation ce qu'on va pouvoir contrôler c'est le fait qu'on étudie un phénomène en tant qu'il éventuellement est associé à une interprétation 
+que cette interprétation n'est valable qu'en fonction de certaines structures syntaxiques et que ce- tout ça n'est valable en plus que dans certains genres de corpus. 
+Bon et encore on est déjà dans quelque chose qui est quand même un peu généralisé on est quand même pas dans le corpus unique et l'interprétation unique. 
+Donc effectivement pour ce qui est de la compétence langagière je crois qu'elle relève de la mémoire individuelle mais après qu'elle a été filtrée par la culture évidemment par la le le la culture linguistique dans laquelle elle elle se trouve. 
+Et que je crois aussi que cette double nature la rend inaccessible par introspection c'est-à-dire que pour moi on a pas le choix entre introspection et corpus je vois pas comment je vois je s- enfin en tous cas quand on parle de sémantique. 
+Peut-être qu'en syntaxe et en morphologie euh il en va différemment mais je crois que quand on parle de sémantique la diversité des phénomènes qu'on peut constater en corpus me laisse penser que vouloir accéder au sens par introspection je sais pas à quoi en réalité je ne sais pas à quoi à quoi on a- on accède. 
+Et que et que si on l- fait un travail sur corpus contrôlé par un certain nombre d'éléments qu'on se fixe a priori là oui on peut sans doute faire émerger des régularités. 
+Bon ça a l'air d'être peut-être un peu pessimiste ce que je dis au sens de de de du rôle des du linguiste mais je crois que dans ce rôle-là il a des choses à dire et il y a des choses qui peuvent vraiment beaucoup progresser même pour la connaissance euh de linguistique en général. 
+Voilà. 
+
+<TXT=golpr1>
+
+ 
+L: Alors je suis prof de portugais depuis euh dix ans j'ai enseigné dans un premier temps euh dans la région lilloise pendant quatre ans dans une ZEP. 
+Alors c'est un mot qui effraie euh les jeunes enseignants puisqu'on pense toujours au cas de violence extrême dont on parle beaucoup euh dans les médias. 
+Euh et c'est vrai que beaucoup d'étudiants ne veulent plus devenir professeur euh puisqu'ils ont toujours peur de de cette violence. 
+Bon il est vrai que c'est un milieu difficile où les élèves sont euh remuants où il y a des cas sociaux certains cas sont euh très difficiles à gérer. 
+
+<TXT=golpr2>
+L: Puisqu'on est quand même professeur on on doit euh on doit enseigner euh on est toujours un petit peu pris par euh les programmes et euh on fait beaucoup de discipline et on est frustré de ne pas pouvoir enseigner euh ce que l'on voudrait. 
+Euh cependant il n'y a pas que la violence et les problèmes sociaux euh ce sont souvent des élèves très attachants et euh et à qui on peut apporter euh beaucoup de choses. 
+Euh quand on sort de la ZEP on en garde souvent euh un bon souvenir puisque c'est des élèves qui euh. 
+
+<TXT=golpr3>
+L: Euh si certains n'ont euh n'ont pas le profil du bon élève ils ont euh ils ont une énergie et euh et des compétences bon qu'on arrive pas à exploiter euh dans le cadre des programmes scolaires. 
+Mais qui euh qui se enfin ça en fait des élèves très attachants et qui sont seront peut-être demain euh les têtes du pays peut-être en tant que syndicalistes en tant qu'artistes en tant que nouvelle force je sais pas trop comment dire c'est pas fa- 
+Euh hum et c'est un terrain d'expérimentation où l'enseignant euh doit sans cesse se remettre en cause puisqu'il doit trouver de nouvelles solutions il euh il ne peut pas se contenter de de son programme des directives. 
+
+<TXT=golpr4>
+L: Il est obligé euh de de se remettre en cause de de chercher des nouvelles solutions. 
+Et puis euh il faut dire euh il n' y a pas non plus que les ZEP euh avec les problèmes sociaux c'est aussi euh un métier où euh très intéressant puisque euh on est toujours en train de de se former intellectuellement euh. 
+On a la possibilité euh d'étonner les élèves de de leur apprendre des choses. 
+Il y a toujours euh c'est toujours intéressant quand on voit un élève ouvrir grand les yeux en se euh en parce que on  on lui a appris quelque chose qui  nous nous semble tout bête et qui lui euh euh enfin lui ne le savait pas et il est euh bon pas émerveillé ne n'exagérons pas. 
+
+<TXT=golpr5>
+
+L: Mais euh c'est surtout le cas pour les élèves de collège où vraiment il apprend et il est un peu euh suspendu à vos lèvres. 
+Donc euh c'est quand même un aspect du du  métier qui euh bon ben qui compense un petit peu tout euh tout ce qu'il y a à côté. 
+Euh donc ça c'est ce que j'ai fait pendant quatre ans dans dans la région lilloise. 
+Et euh quand je suis revenue dans l'Académie de Toulouse je n'ai malheureusement pas trouvé de poste fixe donc euh je n'ai plus d'élèves alors euh je suis un petit peu frustrée. 
+Et euh c'est pourquoi j'envisage une reconversion et que je me suis inscrite en Lettres Modernes bon puisque c'est une matière que j'ai pareil envie d'enseigner de transmettre les textes euh la curiosité de lire. 
+Et donc voilà mais c'est peut-être très ambitieux [rires]. 
+Et je sais plus quoi dire. 
+
+
+<TXT=grcp1>
+
+
+[top] Donc après avoir passé un un bac littéraire je savais pas exactement vers quelle discipline m'orienter. 
+Donc j'ai posé ma candidature dans différentes prépas littéraires. 
+Euh parce que c'était un moyen pour moi en fait de réfléchir encore pendant un an. 
+Et euh donc j'ai été acceptée en hypokâgne à Saint-Sernin. 
+Donc j'ai passé j'ai passé l'année. 
+Et donc ça m'a perdu permis de de conserver une ouverture au niveau des des disciplines puisque on pratiquait encore toutes les les disciplines littéraires qu'on qu'on peut trouver lorsqu'on fait un bac littéraire. 
+Et euh la prépa m'a également permis d'acquérir des des méthodes et et de la rigueur euh que j'ai pu mettre à profit une fois que je me suis retrouvée à la fac donc euh. 
+ma se- (X) qui la seconde année de mes études. 
+Donc je me suis retrouvée en seconde année de de lettres modernes. 
+Et euh j'ai entrepris aussi mon DEUG d'allemand en parallèle. 
+Et parce que ce double cursus m'intéressait parce que l'allemand est est une matière que que j'ai toujours énormément aimé. 
+Et étant donné que je me destine à enseigner c'est vrai que je pense que que ça peut être un un atout pour pour mes futurs élèves du primaire et j'aimerais pourquoi pas aller enseigner en Allemagne si c'est possible. 
+
+
+<TXT=grcp2>
+Et donc cette année je suis en en licence de lettres modernes. 
+Euh c'est vrai que que cette année les les matières sont sont beaucoup plus diversifiées il me semble. 
+Et puisqu'on a des matières à proprement parler littéraires plus plus d'autres qui sont qui sont plus techniques. 
+Et c'est vrai que d'avoir ces ces deux côtés dans dans la licence de de lettres modernes ça permet de de garder une une plus grande ouverture même si on est dans une seule matière. 
+Et euh sinon après mon ma licence de lettres modernes j'aimerais rentrer à l'I.U.F.M en tant que professeur des écoles. 
+C'est pour ça que j'ai passé différents concours de de recrutement des des professeurs  des écoles euh notamment à Montpellier Bordeaux et Toulouse. 
+Et c'est vrai que dans ce cadre là il a fallut que que je me remette à faire des maths c'est pour ça que d'avoir fait un bac littéraire avec une option math a pu être un atout pour pour se remettre dans l'esprit des maths après après avoir arrêté cette matière disons pendant pendant trois ans. 
+Et donc mon objectif professionnel est donc l'enseignement dans le primaire. 
+Et euh c'est vrai que j'aimerais bien également si c'est possible aller enseigner euh en Allemagne. 
+ 
+
+<TXT=jasp1>
+alors je suis en sciences du langage depuis l'année dernière je commence euh j'ai fait j'ai eu mon DEUG euh première année euh l'année dernière voilà et cette année je suis en deuxième année. 
+je le au premier trimestre comme matières j'ai eu zéro huit zéro neuf et dix lin zéro zéro. 
+zéro huit euh c'est la phonétique et la phonologie. 
+je fais phonétique avec madame Bozena Billeré la phonétique est l'étude des sons de la langue de s- des de de n'importe quel son quel qu'il soit et la phonologie est l'étude des sons pertinents dans la langue et euh la j'ai fait phonologie avec monsieur Jean-Michel Tarrier. 
+euh j'ai eu huit et demi au partiel et avec euh Bozena j'ai eu euh quatorze donc ça fait que j'ai mon U.E. huit. 
+ensuite euh j'ai eu euh l'U.E. neuf ça c'était la linguistique textuelle donc j'ai fait euh sémantique avec euh Valérie Sanchou et mh euh comment elle s'appelle euh . 
+euh bon une autre [rires] et ensuite linguistique textuelle avec monsieur Ballabriga. 
+euh ça consiste à faire l'étude des l'étude des textes euh selon des procédés linguistiques euh selon euh des études de sens euh de de syntaxe euh de de morphologie euh voilà c'est à peu près ça. 
+en euh en dix lin zéro zéro euh j'ai fait des des études de psycholinguistique avec madame Soum et avec madame Rohr. 
+
+<TXT=jasp2>
+euh là c'est l'étude de tous les processus cognitifs euh qui entrent en compte euh dans l'activité langagière et euh ça ça m'a beaucoup plu. 
+et j'ai pas encore eu mes notes avec madame Soum par contre euh on a fait elle nous a donné à faire un mh un un T.D. 
+on on a eu deux mois pour pour l'établir et donc euh le but de ce T.D. c'était de montrer que à une unité manifeste dans le cerveau on associait une autre unité euh manifeste euh donc de manière inconsciente. 
+et on était par groupe de deux trois ou quatre et donc c'était à nous de bâtir l'hypothèse notre hypothèse spécifique de le choisir des un corpus de mots de choisir les pan- les sujets et de  et de le faire passer donc voilà on avait deux mois pour tout pour bâtir et confirmer ou infirmer notre hypothèse. 
+donc j'étais avec euh avec trois autres filles qui étaient pas trop dégourdies dommage. 
+et et voilà donc on a on a bâti notre corpus euh on a pris nous notre notre expérience c'était euh que à un mot on associe un autre mot  de caté- de même catégorie grammaticale 
+donc on a pris cinq catégories euh nom adverbe verbe adjectif et et voilà et non les sigles 
+et euh et voilà et on a pris trente sujets et on leur a fait passer euh ces ces tests et euh et après on a notre hypothèse s'est confirmée donc oui à un mot de même catégo- à un mot s'associe un autre mot de même catégorie. 
+et on l'a rendu en même temps que qu'on a fait le partiel et euh et voilà on attend la note. 
+ensuite euh il y a eu la semaine de réorientation qui euh sert aux étudiants euh enfin qui permet aux étudiants de se réorienter s'ils ont fait un mauvais choix dans leurs études donc pour nous euh com- enfin comme c'est pas mon cas ça  a été la semaine de vacances. 
+
+<TXT=jasp3>
+et ensuite euh le deuxième se- le deuxième semestre a commencé et là je fais des études de euh mh [claquement de langue] euh douze treize et quatorze lin alors douze lin c'est morphologie et euh et syntaxe 
+donc tout tout ce qui est la forme du mot et la place du mot dans la phrase c'est avec Anne Rohr et Laure Sarda. 
+ensuite euh treize lin c'est pragmatique et lexicologie ça c'est euh l'étude de euh l'étude du du mot même du lexique et la pragmatique c'est l'étude de de tous les de tous les non dits dans la langue. 
+donc ça c'est très intéressant vraiment très très intéressant j'aimerais bien me me diriger dans cette branche mais bon il est encore trop tôt pour le dire. 
+et ensuite en quatorze lin ça c'est la linguistique informatique avec Cécile Fabre euh ça aussi c'est très intéressant c'est on étudie euh en fait c'est c'est comme de la lexicologie mais on se sert de de la lexicographie pour mieux faire de la lexicologie. 
+donc on est on va sur sur des ordinateurs sur internet par exemple et euh et on voit la différence avec les les les entre les dictionnaires informatisés et les dictionnaires papiers et euh 
+et voilà on note les différences on se dit bè qu'est-ce qu'on pourrait f- qu'est-ce qui pourrait être mieux euh on essaie de décortiquer un article de de dictionnaire et de voir comment il est fait de voir les différences entre tous les dicos papiers euh 
+et ça c'est vraiment vraiment très intéressant puis bon l'informatique c'est l'avenir ça aussi ça me branche bien. 
+
+<TXT=jump1>
+
+ 
+ Hum euh je vais enfin vous parler un petit peu de euh ce que je fais en Sciences du Langage ce qui m'a amenée là et ce que je compte y faire par la suite, 
+donc à l'origine après le Bac je suis partie en médecine j'ai fait deux fois la première année et j'ai échoué deux fois au concours, 
+ mais j'ai eu la chance d'avoir des cours euh de sur le langage quelques heures de cours avec le professeur Nespoulous qui enseigne ici, 
+ et bon ça m'a amenée après euh avoir échoué en fait à, à vraiment vouloir m'orienter vers ça euh vers vers l'étude du langage et j'ai eu la chance de pouvoir le rencontrer ici à la Maison de la Recherche, 
+ et et donc voilà il m'a dit euh il avait vu il a vu que j'avais l'air intéressée il m'a dit de me lancer de me lancer là-dedans et donc je suis arrivée en Sciences du Langage l'année dernière, 
+ et j'ai pas été déçue puisque j'ai découvert un peu euh bon c'est ce que je fais en DEUG depuis l'année dernière j'ai je, je découvre tout ce qu'il se fait en en Sciences du Langage les domaines de la linguistique et, 
+ et bon je commence déjà à me, à me, me demander ce que je vais, vers quoi je vais m'orienter j'ai déjà une idée déjà que bon la psycholingistique m'intéresse tout particulièrement, 
+
+<TXT=jump2>
+
+et puis  euh et puis toutes les disciplines qui nécessitent une grande  euh,  euh rigueur scientifique une certaine logique comme la phonologie par exemple ou la syntaxe ou, ou des choses qui enfin qui me conviennent quoi en fait dans mon rais-dans ma manière, ma manière de raisonner, 
+et voilà donc euh bon ben j'espère pouvoir faire  euh pouvoir continuer dans ce domaine en psycho voir neurolinguistique et, 
+ pourquoi pas faire un troisième cycle si j'arrive à garder le niveau et puis  euh, 
+ pourquoi pas enseigner faire de la recherche  euh là je me lance  euh [rires] je me lance à corps perdu on va dire  euh dans ces études là  euh, 
+en fait  euh, en fait  euh c'est cette année que vraiment je me rend compte que je veux continuer là-dedans, 
+parce qu'après avoir  euh échoué en médecine j'ai continué à dans l'objectif de concours, par l'orthophonie j'ai encore passé le concours cette année mais, mais sans grande conviction je l'ai pas vraiment préparé, 
+mais là c'est vrai que je me rends bien compte que je suis, enfin je suis pas faite pour les concours euh c'est pas ça mais, personne n'est fait pour ça, 
+ mais, mais c'est que je je me suis dit simplement bon ben ça sert à rien de se polluer avec des concours quand on sait ce qu'on veut faire et il faut y aller jusqu'au bout voilà. 
+
+
+
+<TXT=ladp1>
+Top. 
+ Donc voilà euh [claquement de langue] je suis en licence des sciences du langage. Pour décrire un p- un peu l'étendue de la discipline pff lorsqu'on veut étudier le langage on p-  on peut pas le faire dans sa totalité d'un point de vue euh scientifique s- on est obligé de le morceler c'est-à-dire euh 
+Les sciences du langage d'un point de vue du son les s-  sciences du langage d'un point de vue des mots ou euh les sciences du langage d'un point de vue euh de la phrase du sens etc. 
+Donc pour faire un bref aperçu on peut commencer par le commencement c'est-à-dire le son. 
+D'un point du vue concret c'est le le moins le le support pour qu'on puisse parler entre humains donc euh. 
+Ca se  r- ça relève éminemment des sciences du langage donc en première en premier lieu on étudie le son d'un point de vue concret c'est c'est la phonétique. 
+Donc on étudie le son d'un point de vue euh acoustique c'est-à-dire euh comment se propage le son pour arriver jusqu'à nos oreilles c'est-à-dire dans dans l'air etc. C'est ce ce qui renvoie à des termes physiques et acoustiques. 
+On étudie aussi le son d'un point de vue articulatoire c'est-à-dire comment nous humains nous articulons nos nos organes à l'intérieur pour mettre en oeuvre une mécanique qui aboutit à produire du son. [inspiration] 
+Donc ensuite une fois qu'on a établi euh le point de vue concr- la réalité concrète du son on étudie en linguistique ce qu'on appelle  les sons d'un point de vue phonologique c'est-à-dire qu'est-ce qui qu'est-ce qui dans deux sons permet la la reconnaissance euh en tant que tel de ce son. 
+C'est-à-dire entre 'peu' et 'beu' dans la totalit- s- dans la totalité du son qui vient d'être dit il y a certains éléments qui diffèrent euh dans le 'peu' que dans le 'beu' et c'est ce qui permet à l'oreille humaine de distinguer ces sons et euh de pouvoir les opposer au point de vue du sens. [inspiration] 
+
+<TXT=ladp2>
+Donc ensuite il y a un autre niveau dans le les sciences du langage s- nous avons donc la phonétique la phonologie et nous en arrivons à la morphologie. 
+C'est-à-dire c'est la combinaison de plusieurs sens auquel est associé un é- c'est la combinaison de plusieurs sons auquel est associé un élément un élément minimal de sens c'est-à-dire euh. 
+Par exemple dans 'refaire' il y a 're' q- qui qu'on peut appeler un morphème c'est-à-dire euh la réunion de deux sons 'r' et 'e'qui produit un effet de sens c'est-à-dire euh le sens de répétition etc qu'on appelle communément un préfixe. [inspiration] 
+Donc de ce point de vue là la morphologie s'intéresse à découper les mots et les phrases en en éléments segmentés au mini- minimaux pour trouver euh les éléments de sens minimaux euh avant d'en arriver à la décomposition en éléments sonores. 
+Donc ensuite après la morphologie nous en arrivons à la lexicologie car toutes ces disciplines sont sont imbriquées à la manière de de poupées russes. 
+Donc après la la morphologie nous en arrivons à la lexicologie c'est- à-dire l'étude des mots et des unités lexicales plus grandes que les mots c'est-à-dire des mots composés des locutions. 
+On étudie la façon dont ces mots se créent la façon dont dont ils se transforment la façon dont ils participent à la création d'unités plus grandes. 
+Mais bon ceci dit c'est un bref exposé succinct. 
+Après la lexicologie on arrive à la syntaxe c'est-à-dire comment en agençant les mots et les morphèmes entre eux on en arrive à la combi- on en a- on en arrive à la production d'unités plus gr- plus grandes la phrase qui d'ailleurs n'est pas u- une simple juxta- juxtaposition de mots mais euh 
+c'est un agenc- un agencement de mots qui est régi par des contraintes hiérarchiques qui ne qui ne sont pas directement visibles euh au locuteur et qui nécessite une une analyse approfondie que je ne ferais pas ici et euh. [claquement de langue] 
+
+<TXT=ladp3>
+Ensuite après la syntaxe nous en arrivons à quelque chose à la sémantique. 
+C'est-à-dire à l'étude du sens à travers euh les textes euh les enfin l'étude du sens à travers tout ce qui est plus grand que la phrase parce que la phrase est la dernière unité au point de vue formel qu'on décompose en linguistique. 
+ après il y a il y a le texte euh les livres etc et de et de ce point de vue là on étudie euh le sens euh les relations qui qui s- qui qui se jouent dans les textes à travers bien sûr les différents niveaux que que nous avons étudiés jusqu'alors. 
+[claquement de langue] Donc tout ceci en linguistique a pour but de euh de montrer que le langage n'est pas quelque chose de  euh n'est n'est pas une totalité. 
+Le langage est une totalité pour le locuteur mais pour euh pour un pour un universitaire c'est un c'est un conglo- un conglomérat de plusieurs niveaux auquel euh auquel des règles structurales des principes se retrouvent dans chaque euh degré d'abstraction. 
+Donc euh [raclement de gorge] on voit très bien comment à partir du lan- de l'étude du langage on peut on peut en dériver jusqu'à euh jusqu'à euh comme le dit Chomsky sur euh l'ét- sur l'ét- l'étude de l'esprit humain 
+Etant donné que qu'est-ce qui est commun à chaque locuteur c'est un locuteur parlant c'est de d'utiliser une langue [inspiration] de ce point de vue là la linguistique est omniprésente au sein de des sciences cognitives 
+puisque pour la petite histoire toute science est un signal d'une langue d'où la suprématie de la linguistique à vouloir euh expliquer le support par lequel les autres sciences se déploient. 
+ 
+
+<TXT=laup1>
+
+Bon alors voilà euh i paraît qui faut  quje lasse un monologue alors euh bon comme c'est pas très facile de faire un monologue sur aucun sujet!(rires)voilà j'ai choisi de parler du métier d'enseignant-chercheur voilà alors c'est un petit exposé que j'ai fait déjà euh en m'adressant à des collégiens euh euh lors d'une chambre des métiers (xxx)fin d'une sorte de carrefour plutôt des métiers où il s'agissait de leur euh de présenter euh ce métier d'enseignant-chercheur 
+Bon alors voilà euh il paraît qu'il faut que je fasse un monologue alors euh bon comme c'est pas très facile de faire un monologue sur aucun sujet![rires]
+
+
+ 
+Voilà j'ai choisi de parler du métier d'enseignant-chercheur voilà alors c'est un petit exposé que j'ai fait déjà euh en m'adressant à des collégiens euh lors d'une chambre des métiers enfin d'une sorte de carrefour plutôt des métiers où il s'agissait de leur euh de présenter euh ce  métier d'enseignant-chercheur.
+
+ 
+ 
+Alors métier d'enseignant-chercheur ou  euh plus exactement maître de conférences. 
+Alors tout d'abord ce métier eh bien euh il euh requiert un certain nombre de euh disons d'expérience et de diplômes . 
+Alors le diplôme requis bien c'est le doctorat c'est-à-dire environ huit ans d'études. 
+ 
+Alors déjà là euh quand je leur ai dit  ça aux collégiens euh [rires] ils ouvraient des yeux grands comme ça [inspiration]  étant donné que pour eux huit ans d'études c'est énorme quoi . 
+Alors je leur ai dit en gros que ce métier euh  consistait à [soupir] en trois parties on va dire. 
+une partie euh d'enseignement une partie de recherche et puis une partie aussi euh d'administration. 
+hein en fait on est sensé euh savoir f-  savoir faire un petit peu ces trois euh ces trois euh  choses quoi.
+
+ 
+Alors pour la partie enseignement.
+ 
+ 
+<TXT=laup2>
+Disons que euh en temps normal euh on de-ça constitue la moitié du temps mais on va dire euh selon euh selon les responsabilités qu'on a au-au niveau administratif je dirais plutôt un tiers du temps euh un tiers du temps. 
+Disons que euh en temps normal euh on de- ça constitue la moitié du temps mais on va dire euh selon euh selon les responsabilités qu'on a au au niveau administratif je dirais plutôt un tiers du temps euh un tiers du temps 
+Alors cet enseignement bien il s'agit bien sûr de faire des cours! 
+ 
+Alors cet enseignement bien il s'agit bien sûr de faire des cours. 
+Alors de-des cours euh on en a un certain nombre par semaine hein ça fait à p-environ en moyenne disons pour un service normal six heures de cours par semaine ce qui a semblé un petit peu enfin pas beaucoup aux-aux étudiants [rires] enfin aux collégiens qui étaient là. 
+ 
+ 
+Alors des f- des cours euh on en a un certain nombre par semaine hein ça fait à p- environ en moyenne disons pour un service normal six heures de cours par semaine
+ 
+ce qui a semblé  euh un petit peu enfin pas beaucoup aux é- aux étudiants [rire] enfin aux collégiens qui étaient là.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+Mais en fait euh pour six heures de cours par semaine eh bien il y a un temps de préparation bien sûr qui est  assez assez long 
+puisque généralement euh ces cours sont doublés d'une saisie informatique c'est-à-dire qu'on doit faire ces cours non seulement devant des étudiants mais aussi pour euh pour un organisme qui s'appelle le CED et qui consiste à envoyer les cours par correspondance. 
+ 
+Alors bon euh avec la préparation de ces cours bien sûr euh  il y a euh la préparation parfois de transparents pour euh pour projeter des documents en cours il y a euh la recherche de d'informations 
+Bien sûr on fait pas le même cours pendant dix ans à l'université sans le refaire en général euh  ça demande quand même une documentation qui est remise à jour chaque année parce que les choses elles évoluent. 
+[soupir]euh bon euh il faut évidemment réécrire souvent ces cours euh changer des parties euh voir un petit peu tous les euh tous  les nouveaux ouvrages qui sortent dans le domaine. 
+
+<TXT=laup3>
+ 
+Et sans arrêt ça demande en fait une remise à jour euh constante euh disons de ces cours. 
+Alors[légère inspiration] avec les cours il y a évidemment la l'organisation des examens. 
+Alors euh en contrôle continu c'est-à-dire qu'on interroge les les étudiants en cours mais on les in- on interroge aussi ceux qui n'ont pas pu venir en cours et qui ont suivi les cours par le télé-enseignement on les interroge aussi à la fin de l'année 
+et on a deux sessions une en en juin et une en septembre pour ceux qui ont échoué en en juin. 
+Donc tout ça ça fait beau- aussi  beaucoup de travail et ça va dans cette partie d'enseignement. 
+ 
+Après bien sûr il y a la correction des copies en sachant que euh en DEUG eh bien i- il y a beaucoup beaucoup de copies. 
+ça peut aller euh bon ce nombre de copies est bien sûr est  très variable en fonction du nombre d'étudiants que l'on a en cours 
+mais enfin euh bon pour un enseignement ça peut aller euh je sais pas moi environ de trente copies à euh deux cents voire trois cents copies hein ça ça dépend. 
+Alors bien sûr ça ça demande beaucoup de temps aussi la correction des copies[inspiration] et puis on a euh souvent des oraux à faire passer aussi hein c'est pas pas tout le temps mais enfin euh on a des oraux à faire passer. 
+[inspiration] Puis euh bon l'ensei- dans cet enseignement aussi eh bien on organise la l'année universitaire c'est-à -dire qu'il faut se pencher aussi euh sur les emplois du temps on n'a pas [soupir]on fonctionne beaucoup avec les secrétariats mais c'est toujours euh disons euh euh une partie que fait le secrétariat mais pas tout euh on est obligés chaque fois d'organiser des réunions euh etc. pour organiser aussi l'année . 
+
+<TXT=laup4>
+ 
+Bon et puis euh dans cette partie euh enseignement aussi euh il y a une partie euh d'aide aux étudiants. 
+Bon on a souvent des entretiens avec eux euh parfois on les on les reçoit même pour leur donner euh un peu d'aide de soutien etc. 
+[inspiration]Donc cette partie là aussi fait partie de notre de notre métier d'enseignant de recevoir les étudiants [elle tourne la page] entre les cours. 
+Alors pour la deuxième euh partie donc la partie recherche qui euh là aussi on peut considérer qu'elle peut constituer disons un tiers du temps en temps euh normal quand on a une charge administrative quand même assez importante 
+[inspiration]Alors en fonction du domaine de recherche eh bien on va euh pendant ses é- pendant ses études disons et le sujet de thèse on continue euh sa généralement sa recherche dans dans le dans le domaine où on a fait sa thèse 
+[inspiration]on a un laboratoire d'acceuil c'est-à-dire que on travaille bien sûr en en collaboration avec d'autres euh d'autres enseignants qui sont sur le même domaine. 
+[longue inspiration]Donc euh voilà ça c'est pour une partie 
+Alors euh autre ch- autre euh charge dans cette partie recherche ben c'est la participation à des à des programmes de recherche 
+on peut également concevoir ces programmes après tout quand on est par exemple directeur de de recherche ou quand on est déjà un petit peu ancien dans la matière on peut concevoir ces programmes 
+on peut organiser euh des colloques euh bon chercher de l'argent auprès du ministère ou d'autres organismes pour pouvoir réaliser ces programmes ça fait partie [rires] aussi de notre euh de notre travail. 
+<TXT=laup5>
+
+ 
+Comme autre travail eh ben là il y a la rédaction d'articles pour valider un petit peu les recherches que justement on a faites où on met alors dans ces articles on met justement les résultats [bruit de fonds] de euh de nos recherches 
+et ça bon euh ça peut euh ça peut  être très variable hein selon les moments on peut rédiger un article par an euh certains en rédigent  plus bon [inspiration]  ça ça dépend un petit peu. 
+[inspiration]Ensuite il y a euh des parties expérimentation justement là je me prête à une expérimentation aujourd'hui[rires] donc on peut en parler ça fait partie aussi du travail de chercheur. 
+[inspiration]Euh expérimentation analyse de ces analyse des données qu'on a recueillies justement dans l'expérimentation et puis euh c'est ce n'est qu'après qu'on publiera le le résultat de ces analyses 
+[inspiration]Ensuite on dirige les étudiants direction des étudiants donc euh on les dirige on dirige leurs recherches puisqu'en général les étudiants souvent parmi eux eh bien il y a il y a de futurs chercheurs ou de futurs enseignants-chercheurs. 
+[inspiration]Donc on dirige leurs recherches on les aide dans le dans la préparation de leurs diplômes maîtrise euh D.E.A et voire doctorat. 
+On leur trouve quelquefois un financement pour qu'ils puissent continuer justement leurs études. 
+[inspiration]Et enfin qu'est-ce qu'on peut mettre dans cette partie ch- euh dans ce euh métier de chercheur eh bien euh la participation donc à des des colloques des conférences des congrés [inspiration] puisqu'on va se renseigner sans arrêt sur les avancées de la recherche dans laquelle euh on se on est quoi! 
+
+<TXT=magp1>
+
+L: Top donc euh je vais présenter les études universitaires en lettres modernes à la fac du Mirail. 
+L: Donc elles se composent d'un premier cycle euh le DEUG lettres modernes et d'un second cycle qui comprend la licence et la maîtrise. Le DEUG dure deux ans  la licence un an et la maîtrise un ou deux ans c'est ça peut être variable. On la fait en un an normalement. 
+L: Euh hum [bruit de bouche] donc la première an- année de DEUG lettres modernes je vais un peu la détailler.  
+L: On a des enseignements en français donc majoritairement. Plus deux options le latin qui est obligatoire donc qui n'est pas vraiment une option et l'anglais euh il faut une langue donc anglais ou espagnol en général. 
+L: Et aussi euh une mineure. Enfin moi ce ce qu'on appelait avant une mineure maintenant ça porte un nom différent avec la semestrialisation. 
+L: La mineure donc euh moi j'avais choisi histoire. Dans cette mineure on étudiait l'histoire du seizième au vingtième siècle donc c'était décomposé en en deux parties euh l'histoire médiévale seizième dix-sept dix-huitième et l'histoire contapo contemporaine dix-neuvième vingtième. 
+L: Avec euh on étudiait le le les différents corps le clergé le tiers-état la noblesse l'agriculture les révolutions industrielles.... 
+L: Euh là on av- on avait euh des examens écrits mais aussi un exposé oral sur un texte euh d'histoire que nous présentait un enseignant. Et la même chose en histoi- en li- en histoire contemporaine. 
+
+<TXT=magp2>
+L: Donc euh les deux options donc je  les ai citées l'anglais et le latin. 
+L: Euh le latin il faut choisir euh s- un latin débutant confirmé ou entre les deux en fait. Donc moi j'ai pris débutant puisque je n'en a- je n'en avais pas du tout fait au lycée. Donc il faut choisir son niveau. 
+L: En anglais tout le monde est au même niveau puisque tout le monde en a fait euh forcément au collège ou au lycée. 
+L: [bruit de bouche] Ensuite au niveau des enseignements donc de français euh il y a tout d'abord euh un module euh je vais le citer par son code mode cent un où on trouve de la littérature française et de la linguistique. 
+L: En linguistique c'est très général c'est de la syntaxe de la phonologie de la phonétique. C'est ce sont plusieurs branches euh euh spécialisées de la linguistique mais tout en ayant euh tout en ayant une présentation générale en fait la dessus. 
+L: Et ça se spécialisera les années suivantes en en deuxième année de DEUG en licence et puis en maîtrise. 
+L: Donc dans ce module euh la linguistique comme je l'ai dit et aussi donc la littérature axée sur [bref bruit de fond] le commentaire composé. 
+L: Donc là on avait hum plus- on a plusieurs ouvrages à lire en littérature et quelques ouvrages qu'on nous dit qu'on dit hors programme en fait. 
+L: ça peut les ouvrages à lire c'était s- c'était essentiellement des romans enf- en première année enfin moi j'avais eu des romans. 
+L:  Donc on avait eu euh du côté de chez Swann. Marcel Proust. Euh la chute d'Albert Camus. Et hum euh on avait un ouvrage de Victor Hugo au programme mais l'enseignant ne l'a pas traité parce que il a vou- il avait voulu en faire un autre programme. Je dont j'ai oublié le nom. 
+
+<TXT=magp3>
+L: Donc c'est vraiment euh. L'objectif c'est vraiment de d'abord de lire des romans et de de s'en servir pour euh s'initier à la technique du commentaire composé qu'on a un peu ébauché au lycée mais bon pas pas trop approfondi en fait. 
+L: Ensuite il y a un autre module qui s'appelle mode cent deux. On y trouve la littérature comparée et la méthodologie à la dissertation. 
+L: Alors que dans le premier module on avait la méthodologie au commentaire composé. 
+L: Donc là métholo- méthodologie à la dissertation on a pas vraiment d'ouvrage spécifique à lire on on lit des romans ou de la poésie ou du théâtre. 
+L: Et le l'enseignant nous propose des sujets euh généraux de dissertation où on doit euh faire une dissertation en fonction de nos lectures euh euh libres en fait même s'ils nous en conseillent plus euh quelques-unes. 
+L: Euh méthodologie donc à la dissertation et aussi littérature comparée. 
+L: Donc là c'est des de la littérature étrangère. Si on pratique la langue de l'auteur étranger c'est c'est l'idéal parce qu'on peut lire les ouvrages dans la langue étrangère plutôt que la traduction en français. 
+L: Hum et là en littérature comparée au programme on avait James Joyce Gogol un auteur russe. Et ensuite on avait un auteur espagnol ena- euh Oratio Chiroga. 
+
+<TXT=magp4>
+L: Donc voilà les deux options latin et la langue.  
+L: Ensuite je vais passer à la deuxième année de DEUG lettres modernes qui est un peu plus euh qui se spécialise un peu plus. 
+L: Dans le module deux cent un on a la dissertation et le commentaire composé tournés vers des romans o- des ouvrages obligatoires. 
+L: Et là ça peut être euh du théâtre comme on avait eu Phèdre de Racine des poésies Louise Labé. Donc là ce sont les ouvrages au programme. 
+L: Et ensuite toujours dans ce module une partie littérature euh moderne où on avait du théâtre donc avec Ionesco de la poésie euh pl- moderne Cendrars et Paul Verlaine donc plus plus antérieur à Cendrars donc. 
+L: Et donc là l'objectif de ce module c'était euh s- euh approfondir la dissertati- la technique de la der- dissertation et du commentaire composé qu'on avait vue en en première année. 
+L: Ensuite on a un autre module de linguistique. Mode mode deux cent sept. 
+L:  Là divisé en deux parties avec de la linguistique euh plus enfin moi que je dis historique puisqu'on nous i- on nous initiait euh enfin on n- on nous formait euh à l'origine des mots un mot latin comment on aboutit d'un mot latin à euh le mot actuel de la phonétique euh historique en fait. 
+L: Et o- on était censé faire aussi euh ne pas se concenter que sur la phonétique mais l'enseignant que j'avais était très ce très branché là- dessus donc on a fait que de la phonétique. 
+L: Mais il y a aussi euh puis il y a aus- enfin il y aurait du avoir aussi d'autres éléments dans ce module. 
+L: Il y avait Lancelot du lac au programme. On de- on aurait du le lire euh dans la langue médiévale et étudier un peu la s- les faits syntaxiques euh qui sont différents de la grammaire d'aujourd'hui en fait. 
+
+<TXT=magp5>
+L: Et ensuite dans toujours dans ce module deux cent sept il y avait une partie énonciation pragmatique. 
+L: Donc là c'est l'énonciation c'était étudier euh c'était une une curieuse approche en fait de la langue enfin j'ai eu un peu de mal. 
+L: C'était étudier les faits euh é- énonciatifs tels qu'on les lit dans les dans les enfin euh  
+L: Dans un texte on nous faisait lire on essayait de comprendre pourquoi c'était euh pourquoi l'auteur avait énoncé sa phrase de cette manière le selon les le les modes indicatifs subon- subjonctif etc. 
+L: Et ensuite on avait toujours donc en deuxième année les deux options la langue qu'on continuait en général et le latin mais là c'est une option à ch- l'ob- latin n'était le latin n'était pas obligatoire comme en première année c'est une option à choisir. 
+L: Donc euh là cette année-là moi j'avais pris deux options hors cursus. 
+L: Euh donc euh biologie psychologie système éducatif et informatique aussi une initiation [bruit de papier] informatique. 
+L: Ensuite donc en licence.  
+L: S- l'a- l'année de licence j'ai trouvé que c'était euh un peu une préparation au CAPES de lettres modernes parce que on on trouve toutes les notamment en linguistique tout ce qu'on tout ce que les étudiants ont au CAPES au niveau programme puisqu'il y a la stylistique la phonétique historique et tout ça on le re- ça se retrouve au CAPE- au CAPES en fait. 
+L: Euh en littérature euh on avait donc une partie classique et moderne toujours euh sur le même principe avec Montaigne Pascal Voltaire Diderot. 
+L: mais s- tous ces auteurs étaient axés sur une thématique en fait la no- la notion de monde. C'est axé sur une thématique à l'inverse euh des années précédentes en fait. 
+L: Et une partie moderne avec Stendhal euh Stendhal et d'autres auteurs axés sur une thématique également. 
+L: En ensuite donc en linguistique j'en ai déjà parlé donc de la stylistique de la syntaxe également. 
+<TXT=magp6>
+L: Un module euh trois cent trois là où on étudie la littérature médiévale qu'on a pas du tout abordé euh antérieurement. 
+L: Donc euh littérature médiévale on avait eu euh euh j'ai j'ai oublié l'auteur c'était je me souviens plus enfin une oeuvre médiévale et de la littérature comparée. 
+L: Donc euh littérature comparée. Toujours euh littérature comparée ça peut être dissertation ou commentaire composé j'ai oublié de le dire tout à l'heure. 
+L: Euh la langue vivante l'anglais toujours et enfin une option euh une option euh qui est vraiment spécialisée euh au cursus de lettres qui euh qui est obligatoire. 
+L: On choisit soit une option euh axée sur la linguistique soit une option axée sur la littérature comparée ou bien une option euh axée sur la littérature française générale. 
+L: Et donc moi j'avais choisi l'option lire trois cent dix. Et là on doit choisir deux enseignements dans cette option euh entre syntaxe dialectologie lexicologie et euh hum sémantique. 
+L: Donc moi là j'avais choisi la lexicologie et la dialectologie parce que lexicologie on a on en avait parlé en deuxième année. C'est ce qui me plaisait le plus. 
+L: Et dialectologie je connaissais pas du tout mais hum la présentation du module euh que j'avais pu lire euh me tentait bien euh le principe de d'enregistrer des personnes. 
+L: Et c'est là que là par contre j'ai euh moi-même enregistré deux personnes. 
+L: Et donc on a fait une petite enquête bon à notre niveau donc de licence. 
+L: Et hum enfin en maîtrise de lettres modernes donc là on se spécialise vraiment on choisit euh vraiment euh littérature euh française comparée ou euh ou linguistique. 
+L: C'est ça constitue euh toute notre année universitaire. Puisque et on on a très peu de cours puisqu'on a deux séminaires un séminaire par semestre. 
+
+<TXT=nespr1>
+
+L: Donc je suis actuellement en licence TAL de sciences du langage. 
+Donc en fait euh les sciences du langage ben en fait c'est de la linguistique c'est l'étude de tout ce qui se rapporte euh au langage 
+que ce soit de l'apprentissage euh de la sociolinguistique donc les facteurs culturels les facteurs sociaux 
+et de la psycholinguistique tout ce qui se passe dans notre cerveau pour pour tout ce qui consiste au langage. 
+Euh on étudie la syntaxe la morphologie en fait c'est des moyens de découper le langage ça ressemble un petit peu à la grammaire qu'on étudie en primaire. 
+Et la conjugaison et la phonétique la phonologie c'est le découpage en uti- unités de son. 
+[claquement de langue] On travaille un peu sur tout ça sur aussi l'apprentissage du langage par euh les enfants ou ou même à la base par l'homme 
+sur bien sûr on étudie euh tous les courants de la linguistique qui ont qui nous ont précédés 
+
+<TXT=nespr2>
+L: [bruit] Euh donc moi je travaille plus spécialement sur euh le TAL donc c'est le traitement [bruit] automatique des langues. 
+C'est en fait euh un moyen de d'utiliser l'informatique pour étudier le langage et la linguistique. 
+En fait ça permet d'être plus objectif parce que étant donné qu'on travaille sur le langage 
+en utilisant du langage c'est assez difficile d'être objectif tandis qu'à par l'intermédiaire de l'ordinateur qui lui est très scientifique  
+forcément les résultats sont plus nets [rires] et plus scientifiques. 
+Euh je fais ce cursus afin de de pouvoir créer des logiciels sur le langage comme euh les logiciels de correction euh orthographique ou de dictées vocales 
+<TXT=nespr3>
+L: [bruit d'avion] C'est ce qui m'intéresse euh 
+Il faut savoir que pour euh entreprendre un tel corsu- un tel cursus il faut quand même avoir de bonnes bases euh littéraires enfin savoir s'exprimer. 
+Mais aussi quand même avoir un assez d'esprit logique. 
+Justement parce que que ce soit en morphologie ou en phonologie ou même euh en statistique en traitement automatisé des langues 
+il y a besoin d'assez de beaucoup d'esprit logique [rires] voilà euh. [rires] 
+
+
+
+<TXT=nomp1>
+E: Top. 
+L: Je suis étudiante en maîtrise de Lettres Modernes euh l'année de maîtrise se se décompose en plusieurs parties le diplôme de la maîtrise en fait se décompose en plusieurs parties la plus importante étant le mémoire. 
+J'ai choisi de faire un mémoire en en littérature française sur deux oeuvres de de Barbey D'Aurévilly  et mon sujet euh hum traite la la solitude et l'isolement donc dans Une histoire sans nom et dans L'ensorcelée. 
+[claquement de la langue] Euh la première partie de de ce travail euh consiste à rele- enfin après bien sur plusieurs lec- plusieurs lectures des oeuvres consiste à relever les passages qui euh qui évoquent la solitude et l'isolement dans les deux oeuvres de Barbey. 
+[claquement de la langue et crépitement] Suite à cela j'ai fait euh j'ai procédé à une étude euh de ces passages qui m'a permis de mettre en évidence les thèmes qui qui sont liés à la solitude et à l'isolement 
+euh qui m'a permis de de relever les hum les traits stylistiques du narrateur [claquement de la langue] et euh également de euh de mettre euh pff d'établir un champ euh lexical un champ sémantique autour de la solitude. 
+[claquement de la langue] Et de l'isolement. 
+Ensuite euh après avoir relevé ces différentes euh ces différentes idées euh j'ai essayé d'établir un plan par rapport à à ma problématique 
+
+<TXT=nomp2>
+L: et euh de d'organiser ce plan en différentes sous-parties euh différentes sections 
+[claquement de langue] et puis vient l'étape euh de la rédaction euh qui euh demande donc d'insérer également les les références aux oeuvres critiques que j'ai lues en parallèle pendant euh pendant mon travail préliminaire pendant mon travail de recherche avant la rédaction. 
+[claquement de langue] Donc à la fin il me faudra relire euh corriger et veiller à ce que ce mémoire soit correctement mis en forme. 
+Euh cette mise en forme donc se fait euh à partir des règles que nous avons vues pendant un cours de formalisation de mémoire euh donc qui nous a appris euh  les euh la présen- à présenter correctement un un mémoire de maîtrise. 
+[claquement de langue] Ce ce donc ce travail de mémoire et de formalisation de mémoire euh je recommence [rires] [bruit de fond] euh. 
+A côté de ce donc [ E: [reniflement] ] de ce trav- de cet énorme travail qui est celui du mémoire on assiste aussi à des séminaires donc j'en ai ch- choisi deux un en littérature française qui euh qui traite de la brutalité dans la littérature donc au programme nous avons euh deux oeuvres une de Barbey D'Aurévilly qui est donc [rires] me concerne directement et une autre de Nathalie Sarraute 
+[claquement de langue] euh dans ce séminaire donc nous évoquons la la brutalité et euh dans ce- enfin à la fois la brutalité euh verbale la brutalité morale mais aussi le fait euh de traiter les éléments euh les éléments bruts dans un texte. 
+[claquement de langue] Donc ça me permet évidemment d'enrichir mon mon mémoire 
+
+<TXT=nomp3>
+L: et j'ai choisi un deuxième séminaire en linguistique euh donc euh pendant lequel on on traite les les auxiliaires. 
+Comme je vous le disais ce matin j'ai choisi ce séminaire pour euh pour élargir euh un peu mon mon panorama de la- panorama dans mes dans mes études pour pas me cantonner simplement à ne- de la littérature et parce que euh l'étude de la linguistique à mon avis euh enrichit euh le travail d'un  d'un mémoire en littérature. [claquement de langue] 
+Euh la dernière partie de du diplôme de de maîtrise euh s- consiste à en une série de de conférences. 
+Donc on nous recommande de suivre les- la conférence de littérature française quand on fait un mémoire de littérature française celle que j'ai suivie j'ai suivi aussi celle de de linguistique [claquement de langue] et de Stylistique qui est donc composé en deux parties euh. 
+Ces ces conférences alors en en en stylistique les conférences euh donnaient une vue globale de la stylistique il m'a semblé tandis qu'en linguistique on a étudié des points plus précis [claquement de langue] euh comme euh (XX) l'hypoco- les les surnoms hypocoristiques euh [claquement de langue] et le désagréable dans la syntaxe euh. 
+Et au cours de ces euh de ces [bruit d'un objet qui se froisse] enfin su- à la fin de ces séminaires de ces conférences pardon [bruit d'un objet qui se froisse] on a été évalué sur donc des points précis euh donc [bruit d'un objet qui se froisse] moi j'ai choisi (X) le séminaire de- euh [claquement de langue] la conférence de stylistique euh voilà. 
+
+<TXT=peap1>
+L: Hum alors lorsque je suis rentrée euh en fac j'ai décidé de faire un cursus de Lettres Modernes pourtant sans avoir euh sans avoir passé de bac littéraire ce qui n'est pas donc impossible. 
+Euh j'ai juste rattrapé un peu le retard des bouquins que j'avais pas lu euh pas lu bé en en terminale et en première littéraire. 
+Mais c'est très très faisable. 
+Euh en Littérature Moderne on trouve euh bé pas mal de littérature avec en première année surtout des commentaires composés à faire pas beaucoup de dissertations. 
+On a le choix d'une mineure qui permet ensuite la réorientation si euh la la majeure qu'on avait choisie ne nous plaisait pas. 
+Moi j'avais pris mineure psychologie.  
+
+<TXT=peap2>
+L: Et j'ai vraiment été déçue parce qu'en général beaucoup de d'étudiants se dirigent vers la psychologie en imaginant euh bé je sais pas trop quoi parce qu'en fait dans la réalité euh c'est euh euh pff il faut apprendre par coeur euh par coeur des théories des auteurs euh 
+Apparemment ça devient très intéressant en en licence mais bon. 
+Moi la hum la première approche que j'ai eu a pas été très concluante donc je déconseillerais euh la psychologie euh ou ou je dirais plutôt à aux étudi- aux futurs étudiants qui voudraient euh qui voudraient s'y orienter de d'aller voir de plus près à à quoi ils seront conf- confrontés. 
+
+<TXT=peap3>
+L: Et en Lettres par contre euh bé évidemment si on aime pas lire euh on peut on peut aimer [rires]. 
+[rire] On peut aimer parce que les les professeurs m'ont fait apprécier euh m'ont fait apprécier l'analyse de de de différents bouquins et euh et voilà après en licence par contre on trouvera beaucoup euh beaucoup de dissertations et plus aucun commentaire. 
+Et la maîtrise après est un travail plutôt euh personnel et il faut vraiment euh avoir envie de la faire. 
+<TXT=peap4>
+L: Et surtout après avoir un objectif euh. 
+C'est sûr que si on est en faculté pour euh bé pour passer le temps en attendant euh de savoir quoi faire c'est pas une très très bonne solution donc je conseillerais aussi euh aux futurs étudiants euh d'avoir une idée derrière la tête avant de de partir en faculté. 
+Parce que moi j'avais euh comme première idée de devenir institutrice. 
+Et euh bé heureusement que j'ai cette idée en tête parce que là je je me dis que si j'ai pas ces concours à la fin de l'année bé je n- je ne sais pas du tout ce que je vais faire parce que me destinant pas euh  à enseigner le français euh en collège ou lycée euh donc ne voulant pas préparer le CAPES 
+Je me demande euh vers quoi je vais déboucher parce que en tant que débouchés on parle beaucoup euh  
+Euh on parle de quoi on parle de bibliothécaire après de prof bien évidemment 
+D'ailleurs les études nous mènent principalement euh à à devenir prof et et pas à autre chose quoi enfin euh. 
+Parce que c'est une grande diversité euh on apprend au- aussi bien l'ancien français que de la linguistique mais c'est vraiment très littéraire c'est pour euh voilà pour devenir professeur et et voilà ! [rires] 
+
+<TXT=riop1>
+E: allez [rires] 
+L:alors c'est je vais parler de mon activité professionnelle euh euh rémunérée [sourire] et non  mon activité étudiante 
+alors euh j'ai surtout travaillé dans l'animation j'ai passé mon BAFA en mille neuf cent quatre-vingt-dix-neuf et mon  A.F.P.S.  
+euh j'ai été pendant l'A.F.P.S. c'est l'attestation de formation aux premiers secours et le BAFA c'est le brefet brevet d'animateur aux fonctions euh d'aptitude aux fonctions d'animateur. 
+euh j'ai mh alors d'abord j'ai été trois ans ce- chez les éclaireurs euh où en fait c'est eux qui mon permis de passer mon BAFA. 
+euh j'ai fait deux camps avec eux en fait c'est un mouvement de scoutisme les éclaireurs. 
+j'ai fait deux camps donc d'éclaireurs euh avec des enfants de huit douze ans donc c'est la enfin je trouve que c'est la tranch- [bruit de chaise] la tranche d'âge la plus facile à [bruit de bouche] la plus in-  la plus intéressante et euh et la plus facile. 
+alors le premier camp il était à Avignon euh c'était m- c'était mon premier camp et m- ma première expérience dans l'animation 
+euh c'était une expérience assez positive on avait fait euh on avait fondé notre euh notre camp sur le merveilleux sur les elfes les lutins comme on était en Auvergne euh euh 
+c'était ça c'est en Auvergne non c'est pas à Avignon alors c'était mon deuxième camp à Avignon et c'était euh le premier en Auvergne donc on était dans les volcans et euh c'était un climat qui s'y prêtait euh qui s'y prêtait pas mal. 
+
+<TXT=riop2>
+donc euh voilà et ensuite alors c'é- c'était des enfants que je connaissais puisque je les suivais pendant l'année 
+et donc l'année d'après pour mon deuxième camp à Avignon cette fois-ci c'était les mêmes enfants sauf que on était jumélé avec une autre euh une autre meute  
+alors euh c'est c'est des termes euh des termes euh de scoutisme jum- le jumelage c'est quand on s'associe euh avec un autre groupe d'enfants. 
+euh avec des res- il y a d'autres euh ad- enfin d'autres responsables et d'autres enfants et une meute c'est euh un groupe d'enfants en fait 
+[E:hum hum] voilà donc on était jumelé euh avec euh la meute de Mazamet 
+et on a fait notre camp à Avignon et c'était un camp euh dont le thème était euh la vie à la ferme et euh et  le cheval 
+et euh on avait à la fin un  trois jours en itinérance euh à roulotte en fait 
+[claquement de langue] avec des tout p- enfin avec des petits et au début on voulait partir trois jours et on a dû revoir nos ambitions à la baisse parce que on s'est rendu compte qu'ils étaient trop petits pour partir en roulotte  
+ils nous auraient fallu euh on était quarante enfants il nous aurait fallu une quinzaine de roulotte c'était impossible  on en avait quatre à notre disposition 
+
+<TXT=riop3>
+donc on a dû renoncé et on a fait des roulements on a fait euh une journée entière et à chaque fois on partait quatre roulottes et euh avec une dizaine d'enfants 
+et euh comme ça c'était gérable et ils étaient très contents au final d'avoir travaillé avec des énormes chevaux de traies euh avec des sabots énormes comme ça 
+donc ça c'était vraiment un camp euh encore plus positif que le premier 
+et euh et surtout j'ai j'ai beaucoup appris avec les éclaireurs et en particulier le le mh euh [bruit de voix lointaines] apprendre à construire un  projet à construire un projet pour des enfants  
+et euh et à surtout à créer des animations intéressantes en fait qu'on retrouve pas obligatoirement dans les centres de loisirs où c'est un peu des animations toutes faites et euh et des animations un peu bâteau. 
+euh j'ai été chez les éclaireurs infirmière et euh et intendante euh infirmière parce que j'avais mon A.F.P.S. et intendante parce que on a tiré à la courte paille donc ça m'est tombé dessus 
+et donc j'ai appris aussi euh la gestion des stocks et et à m'occuper de des soins euh des soins médicaux. 
+et ensuite l'année dernière j'ai fait deux mois j'ai travaillé pendant deux mois dans une ferme équestre donc euh toujours euh 
+cette fois-ci comme j'avais une expérience dans les domaines des chevaux euh [bruit de voix lointaines] euh enfin  ça m'a facilité la tâche 
+je me suis occupée des enfants tant sur les enfin autant dans les dans les temps équestres que euh dans les temps de vie quotidienne euh  
+j'apprécie surtout enfin j'ai surtout apprécié le travail en équipe et le travail euh enfin de tout y tout de construire un de construire un projet euh pour des enfants euh 
+pour en plus c'était beaucoup plus varié parce qu'on avait toutes les tranches d'âges on avait des tout petits jusqu'aux euh jusqu'aux adolescents [bruit de voix lointaines]. 
+
+<TXT=riop4>
+et euh du coup cette année euh comme ça c'est bien passé l'année dernière cette année je retravaille avec la même équipe 
+et euh la directrice de camp m'a impliquée dans le projet de dans l'élaboration du projet ce que j'avais pas fait l'année dernière. voilà. 
+
+<TXT=romp1>
+
+Stop 
+[rires] Donc dans mes activités professionnelles il y a eu pendant un certain nombre euh d'années euh donc de parler devant euh des élèves d'abord de collège puis de lycée et puis récemment des étudiants et en particulier des étudiants euh pour lesquels je faisais un cours de euh phonétique. 
+Et par conséquent je me suis toujours demandé euh quelle était exactement euh ma propre prononciation hein dans la mesure où j'ai conscience qu'elle est extrêmement variable qu'elle a été influencée euh par les lieux euh  où j'ai habité 
+euh qui d'une dans une certaine mesure m'ont f- éloigné de l'accent méridional euh accent qui revenait périodiquement chaque fois que je revenais moi-même dans le Midi. 
+Donc je sais que quand j'enseignait en lycée et par exemple quand j'expliquais des textes euh littéraires euh ma prononciation euh cherchait à se rapprocher d'une certaine norme euh non méridionale. 
+Et évidemment encore plus euh quand je devais professionnellement donc ici au Mirail en première  année de DEUG euh parler de prononciation du français standard. 
+ Et donc j'imagine qu'il devait y avoir quelque distance entre euh ma façon de parler spontanée et celle sans doute artificielle euh qui était la mienne pour lire des textes littéraires ou pour décrire hein la prononciation du français euh dans des cours de euh phonétique. 
+
+<TXT=romp2>
+Euh ceci étant dit euh mes activités professionnelles  m'ont euh par la suite libéré de ce cours de phonétique et par conséquent euh m'occupant essentiellement maintenant de lexicologie et de morphologie hein je n'ai plus euh ce souci 
+sinon peut-être euh dans des présentations orales de colloques où je continue quelquefois à me demander comment est ce que je parle euh véritablement. 
+Bon. Alors pour parler des activités euh professionnelles euh actuelles [claquement de langue] euh alors voyons pour qu'on soit pas trop décousu disons [rires] 
+que euh je m'occupe essentiellement de morphologie euh lexicale et euh plus précisément euh de suffixation euh avec plusieurs senti- chantiers euh en cours 
+euh un depuis quelques années sur la dérivation française en -ier, -ier euh -ière hein le -ier des plommiers des pommiers [rires] et des plombiers aussi et des poissonniers et cetera 
+euh plus récemment euh les mots en -ouille hein du français qui se relèv- révèlent euh intéressants. 
+
+<TXT=romp3>
+Et euh à la suite euh de euh mon travail de plus en plus étroit en collaboration avec Marc Plénat les interférences qui lui viennent de la phonologie moi venant de euh la euh lexicologie 
+euh les interférences entre les règles de construction des mots d'une façon euh générale et les contraintes euh phonologiques euh qui pèsent euh sur donc sur euh  le lexique euh construit. 
+Bon alors voilà à peu près pour euh le champ de recherche euh en général. 
+Alors pour être bon un peu plus précis sur chacun des domaines si euh  je parle par exemple de la dérivation en -ier euh je me suis attaché d'une part à constituer euh une base de données euh  lexicales la plus étendue euh possible c'est à dire non seulement 
+euh à partir des grands dictionnaires comme le Grand Robert ce qu'avaient déjà fait euh Daniel et Pierre Corbin qui avaient travaillé sur ce suffixe il y a une dizaine d'années mais également euh en ancien français et d'une d'une façon générale dans toute l'histoire de de la langue euh 
+pour essayer d'attaquer la question assez délicate de l'articulation entre l'héritage euh lexical euh qui vient forcément euh des siècles passés et l'analyse synchronique hein du lexique construit 
+puisque dans le lexique construit euh actuel cohabitent des mots qui ont été euh construits qui sont entrés dans le lexique à des dates éxtrèmement variées.  
+Certains peuvent être hérités du latin et être encore euh tout à fait motivés hein et donc on peut les analyser comme si ils avaient été fait euh hier. 
+D'autres sont de formation tout à fait récente et entre les deux il y en a qui sont complètement démotivés et qui sortent évidement de la synchronie hein mais d'autres dont le sens a pu évoluer. 
+
+<TXT=romp4>
+Et d'autre part euh la la question principale est de savoir si euh ces règles de construction des mots sont euh panchroniques et auquel cas euh évidemment il n'y aurait pas de de problème pour établir des règles qui seraient valables pour toutes les strates hein que le lexique a laissé. 
+En revanche si ces règles ne sont pas totalement panchroniques ou si elles ont subi des des des infléchissements donc disons plus ou moins importants à ce moment là euh la question devient assez délicate euh de faire cohabiter dans une même analyse hein des euh des mots des mots construits hein qui ont été euh issus hein de fonctionnements euh d'époques différents suivant euh les époques. 
+Donc là ce sont des recherches en cours euh où pour lesquelles bon j'ai des des des indices si on peut dire mais euh pas véritablement de conclusions. 
+Et euh alors d'autre part euh j'ai regardé pour euh éclairer la question de la rédi- dérivation en -ier en français ce qui se passe avec les suffixes correspondants des lautr- des autres langues romanes j'ai donc établi des des bases de données bon moins importantes mais enfin assez substancielles pour l'occitan euh le catalan l'espagnol le portugais et euh l'italien. 
+Ce qui relativise un peu ce qui se passe euh en français 
+
+<TXT=romp5>
+Et euh met les choses davantage en en perspective et qui déjà bon m'a aidé à à mieux voir euh certains faits euh français. 
+Alors j'ai euh l'intention donc euh d'explorer enfin je suis en train de le faire cette dérivation en -ier j'allais dire de toutes les façons possibles à la fois historique comparatiste euh morpho-phonologique pour voir euh dans quelle mesure la construction des mots proprement dite est plus ou moins conditionnée euh par les contraintes phonologiques. 
+Et j'espère dans un avenir pas très lointain euh aboutir à un ouvrage de de synthèse qui regrouperait hein toutes ces recherches et qui proposerait euh 
+alors soyons ambitieux un modèle de description hein du lexique euh construit qui tout en s'inspirant euh j'allais dire pratiquement en France du seul modèle existant actuellement qui est celui hein de Daniel Corbin et de et du du silex 
+euh s'en éloignerait néanmoins sur un certain nombre euh de points pour à mon sentiment rendre mieux compte euh de j'allais dire l'aspect lexical de la morphologie euh lexicale. 
+Hein c'est à dire dans morphologie lexicale euh il y a l'aspect strictement morphologique qu'on peut de façon relativement aisée traduire euh en règles et d'autant plus que bon ou ou en ou en jeu de contraintes hein mais eh d'une façon synchronique euh comme on peut le faire de la phonologie 
+ Et il y a l'aspect lexical hein pour lequel proprement lexical pour lequel ou bien bon on se contente en synchronie pure d'avoir une liste de mots. 
+Mais si euh on veut aller euh au-delà euh il est pratiquement impossible hein de faire l'impasse hein sur l'articulation entre euh diachronie et euh synchronie. 
+Donc c'est un un enjeu relativement difficile je sais pas [rires] jusqu'où je pourrais avancer dans dans cet- dans cette voie. 
