@@ -1,0 +1,29 @@
+    Adam, J.-M. 
+
+(2017). Chapitre 6. Discours Procéduraux Et autres Genres De l’incitation À l’action. Les Textes : types et prototypes - 4 éd. (p. 259-305). Armand Colin. https://shs-cairn-info.gorgone.univ-toulouse.fr/les-textes-types-et-prototypes--9782200617288-page-259?lang=fr. 
+
+Beaucoup de noms spécifiques au domaine     thema
+idem pour adjectifs       thema
+Adam 92:
+3.3. Lexique spécialisé (C3)
+
+À chaque genre correspond un lexique propre à un domaine de spécialité. Ce lexique est imposé par la précision informationnelle recherchée et par le fait que la connaissance de l’univers de référence (sport, jardinage, bricolage spécialisé, médecine, cuisine, etc.) est supposée commune aux co-énonciateurs. Sont supposées partagées des connaissances du monde, des scripts actionnels (T20 : faire revenir, mouiller ; T21 : napper), du vocabulaire technique ou scientifique (T6 : galbanum, amelle ; T10 : enzymes, oligo-éléments ; T14 : dermatocosmétique ; T17 : oxadiazon, carbétamide, alyssum, ancolie ; T18 : paracétamol, excipients, amidon prégélatinisé, carboxyméthylamidon, etc. ; T22 : cairn, collet, couloir secondaire) et plus globalement la phraséologie du domaine. La nominalisation des actions débouche sur des formations lexicales de spécialité en – age (T17 : arrosage), – ation (T10 : motivation ; T16 : utilisation, épilation ; T17 : homologation, application, plantation, germination ; T20 : préparation ; T21 : réalisation) et ses variantes en – ution/ – ition (T16 : exécution, finition), – ment (T7 : emprisonnement ; T10 : dysfonctionnement, délassement ; T11 : gonflement ; T17 : traitement).
+
+verbes d'action à l'infinitif (tous dans les 50)(comme pour une recette)    enonc
+Adam 92: 
+3.4. Représentation d’actions et force illocutoire (C4)
+
+Une des plus importantes caractéristiques des textes d’incitation à l’action est l’abondance de prédicats représentant des actions temporellement successives et actualisées verbalement à l’infinitif, à l’impératif, au futur ou au présent. Des indications complémentaires modalisent certaines actions en renseignant très précisément sur la manière de faire et/ou en ajoutant des verbes modaux de type pouvoir et devoir. La deuxième grande caractéristique de surface est la présence d’un grand nombre de propositions à valeur illocutoire forte, en particulier d’actes directifs successifs (dire de), très marqués à l’impératif, un peu moins à l’infinitif. Au présent et au futur, la valeur est plutôt assertive (dire que) et plus particulièrement prédictive avec le futur. Cette forte caractérisation illocutoire ne s’étend toutefois pas à l’ensemble des propositions, elle est localisée dans la partie instructionnelle-procédurale. Il faut noter que, dans les textes d’incitation à l’action, toute définition devient implicitement une instruction procédurale (on l’a vu, à propos de T17). Les parties descriptives de ces textes ont donc une double valeur inséparablement référentielle (informative) et instructionnelle (consigne).
+
+noms propres      thema
+pronoms de la 2eme personne     enonc
+Adam 92:
+La place du sujet-agent (destinataire) est, quant à elle, laissée pronominalement (vous) ouverte. Elle peut ainsi être occupée par chaque lecteur-utilisateur. Le pronom de deuxième personne est parfois remplacé par on avec le futur et avec le présent (T5 on incise, etc. ; T17 on doit appliquer ; T22 on débouche/rejoint, qu’on laisse, on le quitte ; T27 que l’on gravit) ou par les formes impersonnelles de type : il est recommandé, s’il s’agit, il n’y a aucun danger (T17). L’infinitif permet les structures impersonnelles : il faut le peser et il est indispensable/nécessaire de prévenir, ne pas hésiter à, prendre, sans dépasser (T18). En revanche l’impératif garde toute sa valeur conative et l’absence du pronom n’est, dans ce cas, qu’un effet de surface sans valeur d’effacement.
+
+jeté utilisé comme un nom et non comme un verbe
+le a un score de keyness élevé: en effet, en faisant une recherche de clusters pour 'le', on constate que les 3 clusters les plus fréquents sont 'le crochet', 'le fil' et 'le point'. La forme 'le' sert alors d'article pour les noms techniques, spécifiques au domaine du crochet, qui ont un score de keyness élevé.
+
+Difficile de faire correspondre aux critères de Biber et al 95
+Comme définit dans adam 92, ce genre de texte correspond à Discours procéduraux et autres genres de l’incitation à l’action
+
+Faire l'analyse
