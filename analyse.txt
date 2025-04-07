@@ -8,5 +8,7 @@ Description qualitative:
 
 Description quantitative:
   taille du corpus: 
+lena@Mac-mini-de-Lena td_605 % egrep -v "<.*>" corpus-DIGNE-BARAQUIN.xml | wc -w
+   21704
   étendue du vocabulaire:
   score de richesse lexicale:
