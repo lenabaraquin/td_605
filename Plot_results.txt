@@ -1,0 +1,12 @@
+Row	FileID	FilePath	FileTokens	Freq	NormFreq	Dispersion	Plot
+1	1	artScien.txt	83390	8	95.935	0.750	
+2	11	souTit.txt	100343	6	59.795	0.631	
+3	12	wikiDisc.txt	87889	6	68.268	0.631	
+4	2	critFilm.txt	53707	7	130.337	0.628	
+5	10	resFilm.txt	32189	5	155.333	0.553	
+6	13	wikiPed.txt	78044	9	115.320	0.440	
+7	0	artPress.txt	70946	6	84.571	0.433	
+8	4	entretien.txt	99768	2	20.047	0.333	
+9	7	Polit.txt	70874	2	28.219	0.333	
+10	6	littJeun.txt	16102	4	248.416	0.000	
+11	8	profilCS.txt	15278	1	65.454	0.000	
